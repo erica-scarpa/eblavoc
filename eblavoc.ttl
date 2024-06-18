@@ -58,15 +58,16 @@
 <word10077> a skos:Concept ;
     skos:prefLabel "ʾa₃-ra-ma-tum "@en ;
     skos:definition "(Some kind of precious apparel); see Waetzoldt, MEE 12 (2001), 325, who tentatively translates 'pendant in the shape of a mountain goat'. Pasquali, 'Lessico' (2005), connects it to √ḥrm, 'to cover'; Archi, 'Jewels' (2002), 187, translates 'pettorale'."@en ;
-    skos:note "Waetzoldt, MEE 12 (2001), 325"@en, "Pasquali, 'Lessico' (2005)"@en, "Archi, 'Jewels' (2002), 187"@en  ;
+    skos:note "Waetzoldt, MEE 12 (2001), 325"@en, "Archi, 'Jewels' (2002), 187"@en, "Lahlouh and Catagnoti, ARET XII (2006), s.v."@en, "Pasquali, 'Lessico' (2005)"@en  ;
     skos:notation "10077" ;
-    skos:example "ŠU₂+ŠA gin₂-DILMUN ku₃:bar₆ šu-bal-ak₄ / 4 gin₂-DILMUN ku₃-gi / <i>ni-zi-mu</i> / 4 ʾ<i>a</i>₃-<i>ra-ma-tum</i> / <i>Zi-mi-ni</i>-ku₃:bar₆ / <i>MA-LIK-TUM</i> <i>Bur-ma-an</i><sup>ki</sup> 20 shekels of silver of the value of 4 shekels of gold, for the plating of 4 (precious items), for Zimini-ku₃:bar₆ queen of Burman."@en ;
+    skos:example "ŠU₂+ŠA gin₂-DILMUN ku₃:bar₆ šu-bal-ak₄ / 4 gin₂-DILMUN ku₃-gi / <i>ni-zi-mu</i> / 4 ʾ<i>a</i>₃-<i>ra-ma-tum</i> / <i>Zi-mi-ni</i>-ku₃:bar₆ / <i>MA-LIK-TUM</i> <i>Bur-ma-an</i><sup>ki</sup> 20 shekels of silver of the value of 4 shekels of gold, for the plating of 4 (precious items), for Zimini-ku₃:bar₆ queen of Burman (ARET XXI 13 = TM.75.G.10143+ obv.VIII:23-IX:6)."@en ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word1476> a skos:Concept ;
     skos:prefLabel "ba-ra-i"@en ;
-    skos:definition "'Selected; of high quality (referred to wool)'; Pasquali, 'Terminologia semitica dei tessili' (1997)."@en ;
+    skos:definition "'Selected; of high quality (referred to wool)'."@en ;
+    skos:note "Pasquali, 'Terminologia semitica dei tessili' (1997)"@en ;
     skos:notation "1476" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
@@ -112,8 +113,8 @@
     skos:topConceptOf <> .
 
 <word1923> a skos:Concept ;
-    skos:prefLabel "gada"@en ;
-    skos:definition "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ gada<sup>tug₂</sup>. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."@en ;
+    skos:prefLabel "GADA"@en ;
+    skos:definition "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."@en ;
     skos:note "Marchesi, 'Plants and Trees' (2013), 276"@en ;
     skos:notation "1923" ;
     skos:related <word77>, <word400001> ;
@@ -121,8 +122,8 @@
     skos:topConceptOf <> .
 
 <word77> a skos:Concept ;
-    skos:prefLabel "gada-TUG₂"@en ;
-    skos:definition "'Linen robe or fabric'; ▶︎ gada may refer to both fabric and linen plant/seed, but the presence of the determinative suggests gada<sup>tug₂</sup> refers specifically to a linen robe or fabric."@en ;
+    skos:prefLabel "GADA-TUG₂"@en ;
+    skos:definition "'Linen robe or fabric'; ▶︎ gada may refer to both fabric and linen plant/seed, but the presence of the determinative suggests GADA-TUG₂ refers specifically to a linen robe or fabric."@en ;
     skos:note "Marchesi, 'Plants and Trees' (2013), 276"@en ;
     skos:notation "77" ;
     skos:inScheme <> ;
@@ -136,7 +137,7 @@
     skos:topConceptOf <> .
 
 <word138> a skos:Concept ;
-    skos:prefLabel "gid₂-TUG₂"@en ;
+    skos:prefLabel "GID₂-TUG₂"@en ;
     skos:definition "'Long garment', see VE 859 gid₂<sup>tug₂</sup> / <i>gu-da-num</i>₂, maybe related to √qtn, 'to be thin'."@en ;
     skos:note "Archi, ARET XIX (2023), s.v., 533"@en ;
     skos:notation "138" ;
@@ -144,7 +145,7 @@
     skos:topConceptOf <> .
 
 <word10054> a skos:Concept ;
-    skos:prefLabel "gin₃-gin₃"@en ;
+    skos:prefLabel "GIN₃-GIN₃"@en ;
     skos:definition "'Lapis lazuli'."@en ;
     skos:notation "10054" ;
     skos:related <word6246> ;
@@ -152,7 +153,7 @@
     skos:topConceptOf <> .
 
 <word1955> a skos:Concept ;
-    skos:prefLabel "giš-DU"@en ;
+    skos:prefLabel "GIŠ-DU"@en ;
     skos:definition "'Anklet?'; See VE 362 giš-DU / <i>pa</i>₂<sup>!</sup>(IGI)-<i>a-tu</i>, /paʿamtu/, “foot”. See Pasquali, Lessico (2005), 35 with bibliography."@en ;
     skos:notation "1955" ;
     skos:note "Pasquali, Lessico (2005), 35"@en, "Hajouz, 'Wortschatz' (2013), 519"@en ;
@@ -161,6 +162,7 @@
 
 <word2223> a skos:Concept ;
     skos:prefLabel "gu₂-bar"@en ;
+    skos:altLabel "<i>GU</i>₂-<i>BAR</i>"@en ;
     skos:definition "<i>KUBĀRUM</i>, measure for arids; the origin of term, which is transliterated as <i>gu</i>₂-<i>bar</i>, gu₂-bar, or GU₂-BAR depending on the interpretation, is still debated. Marchesi ('Plants and Trees' [2013], esp. 87n30, with bibliography) reads it an Akkadogram for <i>kubārum</i> «“the large one” (of the measuring vessels).» Known only at Ebla, it was used for the measurement of arids: it corresponds to 120 <i>assammū</i> (AN.ZAM, uncertain capacity). Scholars suggest a value of 0.16, 0.5, 0.6, or 0.85 litres: correspondingly, a kubārum could be of 19.2, 60, 72, or 102 litres."@en ;
     skos:notation "2223" ;
     skos:note "Marchesi, 'Plants and Trees' (2013), esp. 87n30"@en ;
@@ -177,7 +179,7 @@
     skos:topConceptOf <> .
 
 <word15738> a skos:Concept ;
-    skos:prefLabel "gudu₄"@en ;
+    skos:prefLabel "GUDU₄"@en ;
     skos:definition "'(a medicinal plant, probably Acacia)', used to cure cattle; see also VE 291. Wr. ▶︎ <sup>giš</sup>gudu₄, ▶︎ <sup>u₂</sup>gudu₄"@en ;
     skos:note "Fronzaroli, 'Veterinary Prescription (2005), 90–91"@en, "Catagnoti, 'Piante medicinali' (2018), 134, 137–138"@en ;
     skos:notation "15738" ;
@@ -202,7 +204,7 @@
     skos:topConceptOf <> .
 
 <word1608> a skos:Concept ;
-    skos:prefLabel "ki-sa₂"@en ;
+    skos:prefLabel "KI-SA₂"@en ;
     skos:definition "'retaining wall'; built in stone."@en ;
     skos:note "Molina and Steinkeller, 'Wax Boards' (2023), 43"@en ;
     skos:example "na₄-na₄ ki-sa₂ e₂ en stone for the palace of the king (ARET I 16 = MEE 2 8 = TM.75.G.1278 rev.IV:17-19)."@en ;
@@ -211,7 +213,7 @@
     skos:topConceptOf <> .
 
 <word1497> a skos:Concept ;
-    skos:prefLabel "ku₃-sal"@en ;
+    skos:prefLabel "KU₃-SAL"@en ;
     skos:definition "'Buckle<sup>?</sup>'."@en ;
     skos:note "Archi, 'Jewels' (2002)"@en ;
     skos:notation "1497" ;
@@ -331,7 +333,7 @@
     skos:topConceptOf <> .
 
 <word9015> a skos:Concept ;
-    skos:prefLabel "NU₁₁-za"@en ;
+    skos:prefLabel "NU₁₁-ZA"@en ;
     skos:definition "'Decorated'; probably refers to objects decorated with precious stone or gold leaf."@en ;
     skos:notation "9015" ;
     skos:note "Pasquali, 'Comptabilisation des tissus', 409"@en ;
@@ -364,7 +366,7 @@
     skos:topConceptOf <> .
 
 <word6246> a skos:Concept ;
-    skos:prefLabel "za:gin₃"@en ;
+    skos:prefLabel "ZA:GIN₃"@en ;
     skos:definition "'Lapis lazuli'."@en ;
     skos:notation "6246" ;
     skos:inScheme <> ;
