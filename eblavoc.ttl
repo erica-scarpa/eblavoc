@@ -1,4 +1,4 @@
-@prefix eblavoc: <https://erica-scarpa.github.io/eblavoc/> .
+@prefix eblavoc: <https://purl.org/eblavoc/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
