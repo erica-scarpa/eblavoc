@@ -1,0 +1,287 @@
+@prefix eblavoc: <https://erica-scarpa.github.io/eblavoc/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+eblavoc: a skos:ConceptScheme ;
+    dct:title "EblaVoc"@en ;
+    skos:prefLabel "Eblaite Thesaurus"@en ;
+    dct:creator "Erica Scarpa"@en ;
+    dct:created "2024-06-13"^^xsd:date ;
+    dct:description "A thesaurus of the Eblaite language"@en ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+
+eblavoc:word1493 a skos:Concept ;
+    skos:prefLabel "A"@en ;
+    skos:definition "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@en ;
+    skos:note "Sallaberger, 'Nachrichten' (2003), 620 and n19"@en ;
+    skos:example "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@en ;
+    skos:notation "1493" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1314 a skos:Concept ;
+    skos:prefLabel "AN.ŠE₃"@en ;
+    skos:definition "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@en ;
+    skos:note "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@en, "Conti, 'Sillabario' (1990), 190; Krebernik and Kogan, 'Eblaite', (2021), 703"@en ;
+    skos:notation "1314" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word243 a skos:Concept ;
+    skos:prefLabel "AN.ŠE₃.GU₂"@en ;
+    skos:definition "'(Partial) sum, total'."@en ;
+    skos:notation "243" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1054 a skos:Concept ;
+    skos:prefLabel "ʾa₃-Ⅰ"@en ;
+    skos:definition "A kind of long garment, probably a tunic."@en ;
+    skos:notation "1054" ;
+    skos:subject "Textiles"@en ;
+    skos:related eblavoc:word16106 ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word16106 a skos:Concept ;
+    skos:prefLabel "ʾa₃-da-um-TUG₂"@en ;
+    skos:definition "Cloak; robe; Pasquali, 'Terminologia semitica' (1997), 219–20, suggests an etymology related to the root √ḥtl, 'to wrap'. The number which follows the term might indicate that it was ‘single’ (-I) or ‘folded’ (-II), although a meaning related to the weaving technique (such as tabby or twill) is also a possible explanation. Other translations include: 'un capo di vestiario', Biga and Milano, ARET IV (1984), 284; 'mantello', Archi and Biga, ARET III (1982), 338; Archi, ARET I (1985), 275; Archi, ARET VII (1988), 204; Lahlouh and Catagnoti, ARET XII (2006), 512); 'ʾà.-fabric with single/double weft', Mander, MEE 10 (1990), passim); 'stoffe-ʾA. a filo singolo/doppio filo', D’Agostino, MEE 7 (1996), passim; 'tessile di medio/alta qualità', Pomponio, ARET XV/2 (2013), 405); 'cloak', Archi, ARET XX (2018), 268); 'ein Gewand', Samir, ARET XIX (2019), 221."@en ;
+    skos:example "5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 la₂-2 aktum<sup>tug₂</sup> 2 sal-tug₂ 5 ib₃-III<sup>tug₂</sup> sa₆ gun₃ / 5 ib₂-II<sup>tug₂</sup> gun₃ / ugula <i>Ib-al</i>₆<sup>ki</sup> / 5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup-II 5 gu-dul₃<sup>tug₂</sup> 10 aktum<sup>tug₂</sup> 5 ib₂-II<sup>tug₂</sup> sa₆ gun₃ 5 ib₂-II<sup>tug₂</sup> gun₃ / <i>Ma-nu-wa-at</i><sup>ki</sup> 5 double cloaks, 5 low-quality cloaks, 8 skirts, 2 fine cloths, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for) the overseers of Ib’al; 5 double cloaks, 5 low-quality cloaks, 10 skirts, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for the people) of Manuwat ARET XX 8 = 75.2512, obv.XI:1-5."@en ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word10077 a skos:Concept ;
+    skos:prefLabel "ʾa₃-ra-ma-tum "@en ;
+    skos:definition "(Some kind of precious apparel); see Waetzoldt, MEE 12 (2001), 325, who tentatively translates 'pendant in the shape of a mountain goat'. Paquali, 'Lessico' (2005), connects it to √ḥrm, 'to cover'; Archi, 'Jewels' (2002), 187, translates 'pettorale'."@en ;
+    skos:notation "10077" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1476 a skos:Concept ;
+    skos:prefLabel "ba-ra-i"@en ;
+    skos:definition "'Selected; of high quality (referred to wool)'; Pasquali, 'Terminologia semitica dei tessili' (1997)."@en ;
+    skos:notation "1476" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1667 a skos:Concept ;
+    skos:prefLabel "bi₂-da-ʾa₃-tum"@en ;
+    skos:altLabel "NE-da-ʾa₃-tum"@en ;
+    skos:definition "'Opening ceremony', from √ptḥ (Sum. giš-gal₂-taka₄). See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)."@en ;
+    skos:note "See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)"@en ;
+    skos:historyNote "The reading NE-da-ʾa₃-tum is now abandoned."@en ;
+    skos:notation "1667" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1652 a skos:Concept ;
+    skos:prefLabel "BURU₄-MUŠEN"@en ;
+    skos:definition "'(A kind of bird of prey)', see Hajouz, 'Wortschatz' (2018), 91-92. See also VE 1370' buru₄<sup>mušen</sup> / <i>la-ḫa-bu</i>₃."@en ;
+    skos:notation "1652" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word2231 a skos:Concept ;
+    skos:prefLabel "E₂"@en ;
+    skos:definition "'House; temple'."@en ;
+    skos:notation "2231" ;
+    skos:narrower eblavoc:word13552 ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word13552 a skos:Concept ;
+    skos:prefLabel "E₂-DINGIR-DINGIR"@en ;
+    skos:definition "'Temple of the deified ancestors'."@en ;
+    skos:note "Pasquali, 'É dingir-dingir(-dingir)' (2023)"@en ;
+    skos:notation "13552" ;
+    skos:inScheme eblavoc: .
+
+eblavoc:word1231 a skos:Concept ;
+    skos:prefLabel "GA₂×LA₂"@en ;
+    skos:definition "'Weighting; of the weight of'."@en ;
+    skos:related eblavoc:word5529 ;
+    skos:notation "1231" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1923 a skos:Concept ;
+    skos:prefLabel "gada"@en ;
+    skos:definition "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ gada<sup>tug₂</sup>. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."@en ;
+    skos:note "Marchesi, 'Plants and Trees' (2013), 276"@en ;
+    skos:notation "1923" ;
+    skos:related eblavoc:word77, eblavoc:word400001 ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word77 a skos:Concept ;
+    skos:prefLabel "gada-TUG₂"@en ;
+    skos:definition "'Linen robe or fabric'; ▶︎ gada may refer to both fabric and linen plant/seed, but the presence of the determinative suggests gada<sup>tug₂</sup> refers specifically to a linen robe or fabric."@en ;
+    skos:note "Marchesi, 'Plants and Trees' (2013), 276"@en ;
+    skos:notation "77" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word2314 a skos:Concept ;
+    skos:prefLabel "GANA₂-KI"@en ;
+    skos:definition "'Plot of land'. See also VE 842-844."@en ;
+    skos:notation "2314" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word138 a skos:Concept ;
+    skos:prefLabel "gid₂-TUG₂"@en ;
+    skos:definition "'Long garment', see VE 859 gid₂<sup>tug₂</sup> / <i>gu-da-num</i>₂, maybe related to √qtn, 'to be thin'."@en ;
+    skos:note "Archi, ARET XIX (2023), s.v., 533"@en ;
+    skos:notation "138" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word10054 a skos:Concept ;
+    skos:prefLabel "gin₃-gin₃"@en ;
+    skos:definition "'Lapis lazuli'."@en ;
+    skos:notation "10054" ;
+    skos:related eblavoc:word6246 ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1955 a skos:Concept ;
+    skos:prefLabel "giš-DU"@en ;
+    skos:definition "'Anklet?'; See VE 362 giš-DU / <i>pa</i>₂<sup>!</sup>(IGI)-<i>a-tu</i>, /paʿamtu/, “foot”. See Pasquali, Lessico (2005), 35 with bibliography."@en ;
+    skos:notation "1955" ;
+    skos:note "Pasquali, Lessico (2005), 35"@en, "Hajouz, 'Wortschatz' (2013), 519"@en ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word2223 a skos:Concept ;
+    skos:prefLabel "gu₂-bar"@en ;
+    skos:definition "<i>KUBĀRUM</i>, measure for arids; the origin of term, which is transliterated as <i>gu</i>₂-<i>bar</i>, gu₂-bar, or GU₂-BAR depending on the interpretation, is still debated. Marchesi ('Plants and Trees' [2013], esp. 87n30, with bibliography) reads it an Akkadogram for <i>kubārum</i> «“the large one” (of the measuring vessels).» Known only at Ebla, it was used for the measurement of arids: it corresponds to 120 <i>assammū</i> (AN.ZAM, uncertain capacity). Scholars suggest a value of 0.16, 0.5, 0.6, or 0.85 litres: correspondingly, a kubārum could be of 19.2, 60, 72, or 102 litres."@en ;
+    skos:notation "2223" ;
+    skos:note "Marchesi, 'Plants and Trees' (2013), esp. 87n30"@en ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word400001 a skos:Concept ;
+    skos:prefLabel "GIB₃.GARIG.TUR"@en ;
+    skos:definition "'Linen'; may refer to both fabric and linen plant/seed. Wr. ▶︎ gada or ▶︎ gada<sup>tug₂</sup>. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."@en ;
+    skos:note "Marchesi, 'Plants and Trees' (2013), 276."@en ;
+    skos:notation "400001" ;
+    skos:editorialNote "Not attested in the EbDA database."@en ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word15738 a skos:Concept ;
+    skos:prefLabel "gudu₄"@en ;
+    skos:definition "'(a medicinal plant, probably Acacia)', used to cure cattle; see also VE 291. Wr. ▶︎ <sup>giš</sup>gudu₄, ▶︎ <sup>u₂</sup>gudu₄"@en ;
+    skos:note "Fronzaroli, 'Veterinary Prescription (2005), 90–91"@en, "Catagnoti, 'Piante medicinali' (2018), 134, 137–138"@en ;
+    skos:notation "15738" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word11809 a skos:Concept ;
+    skos:prefLabel "GIŠ-ir-zu₂"@en ;
+    skos:definition "'Saffron yellow; orange'; From West. Sem. √wrs, 'plante tinctoriale servant à teindre en jaune rougeâtre'."@en ;
+    skos:note "DRS W (1997), 631"@en, "Pasquali, Lessico (2005), 24n106"@en ;
+    skos:notation "11809" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word400002 a skos:Concept ;
+    skos:prefLabel "KAK.KA.BU"@en ;
+    skos:definition "'(A necklace)'."@en ;
+    skos:note "Biga, 'Gioielli' (2018)"@en ;
+    skos:notation "400002" ;
+    skos:editorialNote "Not attested in the EbDA database."@en ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1608 a skos:Concept ;
+    skos:prefLabel "ki-sa₂"@en ;
+    skos:definition "'retaining wall'; built in stone."@en ;
+    skos:note "Molina and Steinkeller, 'Wax Boards' (2023), 43"@en ;
+    skos:example "na₄-na₄ ki-sa₂ e₂ en stone for the palace of the king (ARET I 16 = MEE 2 8 = TM.75.G.1278 rev.IV:17-19)."@en ;
+    skos:notation "1608" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1497 a skos:Concept ;
+    skos:prefLabel "ku₃-sal"@en ;
+    skos:definition "'Buckle<sup>?</sup>'."@en ;
+    skos:note "Archi, 'Jewels' (2002)"@en ;
+    skos:notation "1497" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word5529 a skos:Concept ;
+    skos:prefLabel "LAGAB×LA₂"@en ;
+    skos:notation "5529" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1848 a skos:Concept ;
+    skos:prefLabel "li"@en ;
+    skos:definition "'One thousand'; also wr. ▶︎ li-im."@en ;
+    skos:note "Bonechi, 'Lexical Numbers' (2021)"@en ;
+    skos:related eblavoc:word717;
+    skos:notation "1848" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word717 a skos:Concept ;
+    skos:prefLabel "li-im"@en ;
+    skos:definition "'One thousand'; also wr. ▶︎ li."@en ;
+    skos:note "Bonechi, 'Lexical Numbers' (2021)"@en ;
+    skos:notation "717" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word2260 a skos:Concept ;
+    skos:prefLabel "ma-i-at"@en ;
+    skos:definition "'One hundred thousand'; also wr. ▶︎ ma-i-ḫu."@en ;
+    skos:note "Bonechi, 'Lexical Numbers' (2021)"@en ;
+    skos:notation "2260" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word16655 a skos:Concept ;
+    skos:prefLabel "ma-i-ḫu"@en ;
+    skos:definition "'One hundred thousand'; also wr. ▶︎ ma-i-at."@en ;
+    skos:note "Bonechi, 'Lexical Numbers' (2021)"@en ;
+    skos:notation "16655" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word16571 a skos:Concept ;
+    skos:prefLabel "ma-ḫu-at"@en ;
+    skos:definition "'One million'."@en ;
+    skos:note "Bonechi, 'Lexical Numbers' (2021)"@en ;
+    skos:notation "16571" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word244 a skos:Concept ;
+    skos:prefLabel "mi-at"@en ;
+    skos:definition "'One hundred'."@en ;
+    skos:note "Bonechi, 'Lexical Numbers' (2021)"@en ;
+    skos:notation "244" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word1021 a skos:Concept ;
+    skos:prefLabel "GIŠ-nu-kiri₆"@en ;
+    skos:definition "'Garden, grove'."@en ;
+    skos:note "Archi, 'Minima Eblaitica 29' (2023)"@en ;
+    skos:notation "1021" ;
+    skos:editorialNote "Not attested in the EbDA database."@en ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
+
+eblavoc:word6246 a skos:Concept ;
+    skos:prefLabel "za:gin₃"@en ;
+    skos:definition "'Lapis lazuli'."@en ;
+    skos:notation "6246" ;
+    skos:inScheme eblavoc: ;
+    skos:topConceptOf eblavoc: .
