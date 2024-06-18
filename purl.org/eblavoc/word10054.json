@@ -10,6 +10,14 @@
   "notation": [
     "10054"
   ],
+  "related": [
+    {
+      "id": "https://purl.org/eblavoc/word6246",
+      "prefLabel": {
+        "en": "ZA:GIN₃"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",
