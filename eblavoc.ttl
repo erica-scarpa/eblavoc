@@ -280,6 +280,44 @@
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
+<word6078> a skos:Concept ;
+    skos:prefLabel "na-mur-ra-tum"@en ;
+    skos:definition "'(a shiny stone)'; the term comes from √nmr, “to shine”. The connection with alabaster or the like has been made by Pasquali (Lessico [2005], 72, with previous bibliography), since the term appears as na₄ na-mur-ra-tum in incantation ARET V 5 = 75.2194."@en ;
+    skos:note "Pasquali (Lessico [2005], 72"@en ;
+    skos:notation "6078" ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<word14631> a skos:Concept ;
+    skos:prefLabel "na-mur-ra-tim"@en ;
+    skos:related <word6078> ;
+    skos:notation "14631" ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<word4299> a skos:Concept ;
+    skos:prefLabel "nab-ḫu"@en ;
+    skos:definition "''Rock crystal'; wr. also ▶︎ <sup>na</sup>nab<sub>x</sub>(MUL)-<i>ḫu</i>, ▶︎ <i>na-ba-ḫu</i>."@en ;
+    skos:note "Pasquali, 'Cristal de roche' (2022)"@en ;
+    skos:notation "4299" ;
+    skos:related <word400003>, <word400004>;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<word400003> a skos:Concept ;
+    skos:prefLabel "NA₄-MUL-ḫu"@en ;
+    skos:notation "400003" ;
+    skos:editorialNote "Not attested in the EbDA database."@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<word400004> a skos:Concept ;
+    skos:prefLabel "na-ba-ḫu"@en ;
+    skos:notation "400004" ;
+    skos:editorialNote "Not attested in the EbDA database."@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
 <word6246> a skos:Concept ;
     skos:prefLabel "za:gin₃"@en ;
     skos:definition "'Lapis lazuli'."@en ;
