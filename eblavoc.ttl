@@ -148,6 +148,7 @@
     skos:prefLabel "GIN₃-GIN₃"@en ;
     skos:definition "'Lapis lazuli'."@en ;
     skos:notation "10054" ;
+    skos:related <word6246> ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
