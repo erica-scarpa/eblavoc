@@ -2,10 +2,10 @@
   "id": "https://purl.org/eblavoc/word1923",
   "type": "Concept",
   "prefLabel": {
-    "en": "gada"
+    "en": "GADA"
   },
   "definition": {
-    "en": "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ gada<sup>tug₂</sup>. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."
+    "en": "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."
   },
   "note": {
     "en": [
@@ -19,7 +19,7 @@
     {
       "id": "https://purl.org/eblavoc/word77",
       "prefLabel": {
-        "en": "gada-TUG₂"
+        "en": "GADA-TUG₂"
       }
     },
     {

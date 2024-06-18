@@ -2,7 +2,7 @@
   "id": "https://purl.org/eblavoc/word10054",
   "type": "Concept",
   "prefLabel": {
-    "en": "gin₃-gin₃"
+    "en": "GIN₃-GIN₃"
   },
   "definition": {
     "en": "'Lapis lazuli'."
@@ -14,7 +14,7 @@
     {
       "id": "https://purl.org/eblavoc/word6246",
       "prefLabel": {
-        "en": "za:gin₃"
+        "en": "ZA:GIN₃"
       }
     }
   ],

@@ -2,10 +2,10 @@
   "id": "https://purl.org/eblavoc/word77",
   "type": "Concept",
   "prefLabel": {
-    "en": "gada-TUG₂"
+    "en": "GADA-TUG₂"
   },
   "definition": {
-    "en": "'Linen robe or fabric'; ▶︎ gada may refer to both fabric and linen plant/seed, but the presence of the determinative suggests gada<sup>tug₂</sup> refers specifically to a linen robe or fabric."
+    "en": "'Linen robe or fabric'; ▶︎ gada may refer to both fabric and linen plant/seed, but the presence of the determinative suggests GADA-TUG₂ refers specifically to a linen robe or fabric."
   },
   "note": {
     "en": [
@@ -19,7 +19,7 @@
     {
       "id": "https://purl.org/eblavoc/word1923",
       "prefLabel": {
-        "en": "gada"
+        "en": "GADA"
       }
     }
   ],
