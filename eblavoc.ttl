@@ -320,6 +320,47 @@
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
+<word2564> a skos:Concept ;
+    skos:prefLabel "ni-zi-mu"@en ;
+    skos:definition "'Laminating'."@en ;
+    skos:notation "2564" ;
+    skos:note "Catagnoti, Grammatica (2012), 35"@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<word9015> a skos:Concept ;
+    skos:prefLabel "NU₁₁-za"@en ;
+    skos:definition "'Decorated'; probably refers to objects decorated with precious stone or gold leaf."@en ;
+    skos:notation "9015" ;
+    skos:note "Pasquali, 'Comptabilisation des tissus', 409"@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<word5528> a skos:Concept ;
+    skos:prefLabel "ra-gi-i₃"@en ;
+    skos:definition "'Scented ointment'; see also Ug. rqḥ, 'perfume, ointmen' (DUL3, s.v., 735)."@en ;
+    skos:example "4 KIN siki / nig₂-sa₁₀ <i>ra-gi-i</i>₃ / <i>MA-LIK-TUM</i> / šu-ba₄-ti 4 KIN of wool, price of the scented ointment of the queen, have been delivered (ARET IV 9 = TM.75.G.1286 rev.VI:1-4)."@en ;
+    skos:notation "5528" ;
+    skos:note "Conti, 'Sistema grafico' (1993), 99n2"@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<word15903> a skos:Concept ;
+    skos:prefLabel "ri₂-pap"@en ;
+    skos:definition "'Ten thousand'."@en ;
+    skos:notation "15903" ;
+    skos:note "Bonechi, 'Lexical Numbers' (2021)"@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<word10372> a skos:Concept ;
+    skos:prefLabel "SI-UDU-UR₄"@en ;
+    skos:definition "'Plucked wool''."@en ;
+    skos:notation "10372" ;
+    skos:note "Lahlouh and Catagnoti, ARET XII (2006), 579 s.v. "@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+      
 <word6246> a skos:Concept ;
     skos:prefLabel "za:gin₃"@en ;
     skos:definition "'Lapis lazuli'."@en ;
