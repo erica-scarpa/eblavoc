@@ -148,7 +148,6 @@
     skos:prefLabel "GIN₃-GIN₃"@en ;
     skos:definition "'Lapis lazuli'."@en ;
     skos:notation "10054" ;
-    skos:related <word6246> ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
@@ -162,7 +161,6 @@
 
 <word2223> a skos:Concept ;
     skos:prefLabel "gu₂-bar"@en ;
-    skos:altLabel "<i>GU</i>₂-<i>BAR</i>"@en ;
     skos:definition "<i>KUBĀRUM</i>, measure for arids; the origin of term, which is transliterated as <i>gu</i>₂-<i>bar</i>, gu₂-bar, or GU₂-BAR depending on the interpretation, is still debated. Marchesi ('Plants and Trees' [2013], esp. 87n30, with bibliography) reads it an Akkadogram for <i>kubārum</i> «“the large one” (of the measuring vessels).» Known only at Ebla, it was used for the measurement of arids: it corresponds to 120 <i>assammū</i> (AN.ZAM, uncertain capacity). Scholars suggest a value of 0.16, 0.5, 0.6, or 0.85 litres: correspondingly, a kubārum could be of 19.2, 60, 72, or 102 litres."@en ;
     skos:notation "2223" ;
     skos:note "Marchesi, 'Plants and Trees' (2013), esp. 87n30"@en ;
