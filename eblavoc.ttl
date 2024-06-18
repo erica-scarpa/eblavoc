@@ -297,7 +297,7 @@
 
 <word4299> a skos:Concept ;
     skos:prefLabel "nab-ḫu"@en ;
-    skos:definition "''Rock crystal'; wr. also ▶︎ <sup>na</sup>nab<sub>x</sub>(MUL)-<i>ḫu</i>, ▶︎ <i>na-ba-ḫu</i>."@en ;
+    skos:definition "'Rock crystal'; wr. also ▶︎ <sup>na</sup><i>nab</i><sub>x</sub>(MUL)-<i>ḫu</i>, ▶︎ <i>na-ba-ḫu</i>."@en ;
     skos:note "Pasquali, 'Cristal de roche' (2022)"@en ;
     skos:notation "4299" ;
     skos:related <word400003>, <word400004>;
@@ -306,6 +306,7 @@
 
 <word400003> a skos:Concept ;
     skos:prefLabel "NA₄-MUL-ḫu"@en ;
+    skos:definition "Alternate spelling for ▶︎ <i>nab-ḫu</i>, 'rock crystal'."@en ;
     skos:notation "400003" ;
     skos:editorialNote "Not attested in the EbDA database."@en ;
     skos:inScheme <> ;
@@ -313,6 +314,7 @@
 
 <word400004> a skos:Concept ;
     skos:prefLabel "na-ba-ḫu"@en ;
+    skos:definition "Alternate spelling for ▶︎ <i>nab-ḫu</i>, 'rock crystal'."@en ;
     skos:notation "400004" ;
     skos:editorialNote "Not attested in the EbDA database."@en ;
     skos:inScheme <> ;
