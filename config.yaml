@@ -27,12 +27,12 @@ ui:
     skoHubLightGrey: "rgb(235, 235, 235)"
   fonts:
     regular:
-      font_family: "Ubuntu"
+      font_family: "Nunito"
       font_style: "normal"
       font_weight: 400
-      name: "ubuntu-v20-latin-regular"
+      name: "nunito-v16-latin-regular"
     bold:
-      font_family: "Ubuntu"
+      font_family: "Nunito"
       font_style: "normal"
       font_weight: 700
-      name: "ubuntu-v20-latin-700"
+      name: "nunito-v16-latin-700"
