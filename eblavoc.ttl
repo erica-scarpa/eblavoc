@@ -76,6 +76,25 @@
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
+<https://purl.org/eblavoc/9128> a skos:Concept ;
+    skos:prefLabel "ʾa₅-za-ru₁₂"@en ;
+    skos:notation "9128" ;
+    skos:related <https://purl.org/eblavoc/400008>, <https://purl.org/eblavoc/400009> ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/400008> a skos:Concept ;
+    skos:prefLabel "NI-za-ru₁₂"@en ;
+    skos:notation "400008" ;
+    owl:deprecated true ;
+    skos:inScheme <> .
+
+<https://purl.org/eblavoc/400009> a skos:Concept ;
+    skos:prefLabel "i₃-za-ru₁₂"@en ;
+    skos:notation "400009" ;
+    owl:deprecated true ;
+    skos:inScheme <> .
+
 <https://purl.org/eblavoc/1667> a skos:Concept ;
     skos:prefLabel "bi₂-da-ʾa₃-tum"@en, "𒉈𒁕𒂍𒌈"@ebl ;
     skos:altLabel "NE-da-ʾa₃-tum"@en ;
@@ -397,5 +416,4 @@
     skos:prefLabel "ZA:GIN₃"@en ;
     skos:definition "'Lapis lazuli'."@en ;
     skos:notation "6246" ;
-    owl:deprecated true ;
     skos:inScheme <> .
