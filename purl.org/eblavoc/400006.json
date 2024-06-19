@@ -1,19 +1,35 @@
 {
-  "id": "https://purl.org/eblavoc/10372",
+  "id": "https://purl.org/eblavoc/400006",
   "type": "Concept",
   "prefLabel": {
-    "en": "SI-UDU-UR₄"
+    "en": "TI-TUG₂"
+  },
+  "hiddenLabel": {
+    "en": [
+      "ti-tug₂"
+    ]
   },
   "definition": {
-    "en": "'Plucked wool''."
+    "en": "'Ribbed clothing (when referred to a textile)'; see also the translation 'tunic with folds' found in Archi, ARET XIV (2023), s.v. aktumtug₂, 522."
   },
   "note": {
     "en": [
-      "Lahlouh and Catagnoti, ARET XII (2006), 579 s.v."
+      "Archi, ARET XX (2018), s.v., 290",
+      "Archi, ARET XIV (2023), s.v., 572",
+      "Archi, ARET XIV (2023), s.v. AKTUM-TUG₂, 522",
+      "Biga, 'Textiles' (2010), 155"
     ]
   },
   "notation": [
-    "10372"
+    "400006"
+  ],
+  "related": [
+    {
+      "id": "https://purl.org/eblavoc/400007",
+      "prefLabel": {
+        "en": "E₂-TI-TUG₂"
+      }
+    }
   ],
   "inScheme": [
     {

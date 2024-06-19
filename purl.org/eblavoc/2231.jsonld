@@ -27,6 +27,12 @@
         "en": "E₂-DINGIR-DINGIR",
         "ebl": "𒂍𒀭𒀭"
       }
+    },
+    {
+      "id": "https://purl.org/eblavoc/400007",
+      "prefLabel": {
+        "en": "E₂-TI-TUG₂"
+      }
     }
   ],
   "inScheme": [

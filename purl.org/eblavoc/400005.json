@@ -1,19 +1,35 @@
 {
-  "id": "https://purl.org/eblavoc/10372",
+  "id": "https://purl.org/eblavoc/400005",
   "type": "Concept",
   "prefLabel": {
-    "en": "SI-UDU-UR₄"
+    "en": "še₃"
+  },
+  "altLabel": {
+    "en": [
+      "eš₂"
+    ]
+  },
+  "hiddenLabel": {
+    "en": [
+      "she3",
+      "esh2"
+    ]
   },
   "definition": {
-    "en": "'Plucked wool''."
+    "en": "Logographic writing for the masc. gen. sing. relative pronoun. In the past transliterated as eš₂ and compared to the preposition iš."
   },
   "note": {
     "en": [
-      "Lahlouh and Catagnoti, ARET XII (2006), 579 s.v."
+      "Tonietti, Sistema preposizionale (2013), 30-33"
+    ]
+  },
+  "historyNote": {
+    "en": [
+      "The reading eš₂ is now abandoned."
     ]
   },
   "notation": [
-    "10372"
+    "400005"
   ],
   "inScheme": [
     {
