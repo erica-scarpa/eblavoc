@@ -424,6 +424,7 @@ eblavoc:6246 a skos:Concept ;
 
 eblavoc:Textiles a skos:Collection ;
     skos:prefLabel "Textiles and garments"@en ;
+    skos:description "A collection of terms referred to textiles and garments"@en ;
     skos:member eblavoc:1054 ;
     skos:member eblavoc:16106 ;
     skos:member eblavoc:77 ;
@@ -431,3 +432,6 @@ eblavoc:Textiles a skos:Collection ;
     skos:member eblavoc:138 ;
     skos:member eblavoc:400006 .
 
+eblavoc:Animals a skos:Collection ;
+    skos:prefLabel "Animals"@en ;
+    skos:member eblavoc:1652 .
