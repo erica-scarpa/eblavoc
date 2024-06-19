@@ -32,9 +32,8 @@
     skos:topConceptOf <> .
 
 <word243> a skos:Concept ;
-    skos:prefLabel "AN.ŠE₃.GU₂"@en ;
-    skos:definition "'(Partial) sum, total'."@en ;
-    skos:altLabel "𒀭𒂠𒄘"@akk ;
+    skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@akk ;
+    skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@akk ;
     skos:notation "243" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
