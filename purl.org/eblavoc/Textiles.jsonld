@@ -1,37 +1,23 @@
 {
-  "id": "https://purl.org/eblavoc/1848",
-  "type": "Concept",
+  "id": "https://purl.org/eblavoc/Textiles",
+  "type": "Collection",
   "prefLabel": {
-    "en": "li"
+    "en": "Textiles and garments"
   },
-  "definition": {
-    "en": "'One thousand'; mainly wr. ▶︎ li-im."
-  },
-  "note": {
-    "en": [
-      "Bonechi, 'Lexical Numbers' (2021)"
-    ]
-  },
-  "notation": [
-    "1848"
-  ],
-  "broader": {
-    "id": "https://purl.org/eblavoc/717",
-    "prefLabel": {
-      "en": "li-im"
-    }
-  },
-  "inScheme": [
+  "member": [
     {
-      "id": "https://purl.org/eblavoc/",
-      "title": {
-        "en": "EblaVoc"
+      "id": "https://purl.org/eblavoc/16106",
+      "prefLabel": {
+        "en": "ʾa₃-da-um-TUG₂",
+        "ebl": "𒂍𒁕𒌝𒌆"
       }
-    }
-  ],
-  "inSchemeAll": [
+    },
     {
-      "id": "https://purl.org/eblavoc/"
+      "id": "https://purl.org/eblavoc/77",
+      "prefLabel": {
+        "en": "GADA-TUG₂",
+        "ebl": "𒃰𒌆"
+      }
     }
   ],
   "@context": {
