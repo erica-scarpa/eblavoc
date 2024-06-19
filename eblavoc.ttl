@@ -15,32 +15,32 @@
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 
 <word1493> a skos:Concept ;
-    skos:prefLabel "A"@en, "𒀀"@cun ;
-    skos:definition "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@en ;
-    skos:note "Sallaberger, 'Nachrichten' (2003), 620 and n19"@en ;
-    skos:example "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@en ;
+    skos:prefLabel "A"@en, "𒀀"@ebl ;
+    skos:definition "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@en, "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@ebl ;
+    skos:note "Sallaberger, 'Nachrichten' (2003), 620 and n19"@en, "Sallaberger, 'Nachrichten' (2003), 620 and n19"@ebl ;
+    skos:example "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@en, "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@ebl ;
     skos:notation "1493" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word1314> a skos:Concept ;
-    skos:prefLabel "AN.ŠE₃"@en ;
-    skos:definition "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@en ;
-    skos:note "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@en, "Conti, 'Sillabario' (1990), 190"@en, "Krebernik and Kogan, 'Eblaite', (2021), 703"@en ;
+    skos:prefLabel "AN.ŠE₃"@en, "𒀭𒂠"@ebl ;
+    skos:definition "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@en, "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@ebl ;
+    skos:note "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@en, "Conti, 'Sillabario' (1990), 190"@en, "Krebernik and Kogan, 'Eblaite', (2021), 703"@en, "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@ebl, "Conti, 'Sillabario' (1990), 190"@ebl, "Krebernik and Kogan, 'Eblaite', (2021), 703"@ebl ;
     skos:notation "1314" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word243> a skos:Concept ;
-    skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@cun ;
-    skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@cun ;
+    skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@ebl ;
+    skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@ebl ;
     skos:notation "243" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word1054> a skos:Concept ;
-    skos:prefLabel "ʾa₃-Ⅰ"@en ;
-    skos:definition "A kind of long garment, probably a tunic."@en ;
+    skos:prefLabel "ʾa₃-Ⅰ"@en, "𒂍𒁹"@ebl ;
+    skos:definition "A kind of long garment, probably a tunic."@en, "A kind of long garment, probably a tunic."@ebl ;
     skos:notation "1054" ;
     skos:subject "Textiles"@en ;
     skos:related <word16106> ;
@@ -48,59 +48,59 @@
     skos:topConceptOf <> .
 
 <word16106> a skos:Concept ;
-    skos:prefLabel "ʾa₃-da-um-TUG₂"@en ;
-    skos:definition "Cloak; robe; Pasquali, 'Terminologia semitica' (1997), 219–20, suggests an etymology related to the root √ḥtl, 'to wrap'. The number which follows the term might indicate that it was ‘single’ (-I) or ‘folded’ (-II), although a meaning related to the weaving technique (such as tabby or twill) is also a possible explanation. Other translations include: 'un capo di vestiario', Biga and Milano, ARET IV (1984), 284; 'mantello', Archi and Biga, ARET III (1982), 338; Archi, ARET I (1985), 275; Archi, ARET VII (1988), 204; Lahlouh and Catagnoti, ARET XII (2006), 512); 'ʾà.-fabric with single/double weft', Mander, MEE 10 (1990), passim); 'stoffe-ʾA. a filo singolo/doppio filo', D’Agostino, MEE 7 (1996), passim; 'tessile di medio/alta qualità', Pomponio, ARET XV/2 (2013), 405); 'cloak', Archi, ARET XX (2018), 268); 'ein Gewand', Samir, ARET XIX (2019), 221."@en ;
-    skos:example "5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 la₂-2 aktum<sup>tug₂</sup> 2 sal-tug₂ 5 ib₃-III<sup>tug₂</sup> sa₆ gun₃ / 5 ib₂-II<sup>tug₂</sup> gun₃ / ugula <i>Ib-al</i>₆<sup>ki</sup> / 5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 aktum<sup>tug₂</sup> 5 ib₂-II<sup>tug₂</sup> sa₆ gun₃ 5 ib₂-II<sup>tug₂</sup> gun₃ / <i>Ma-nu-wa-at</i><sup>ki</sup> 5 double cloaks, 5 low-quality cloaks, 8 skirts, 2 fine cloths, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for) the overseers of Ib’al; 5 double cloaks, 5 low-quality cloaks, 10 skirts, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for the people) of Manuwat ARET XX 8 = 75.2512, obv.XI:1-5."@en ;
+    skos:prefLabel "ʾa₃-da-um-TUG₂"@en, "𒂍𒁕𒌝𒌆"@ebl ;
+    skos:definition "Cloak; robe; Pasquali, 'Terminologia semitica' (1997), 219–20, suggests an etymology related to the root √ḥtl, 'to wrap'. The number which follows the term might indicate that it was ‘single’ (-I) or ‘folded’ (-II), although a meaning related to the weaving technique (such as tabby or twill) is also a possible explanation. Other translations include: 'un capo di vestiario', Biga and Milano, ARET IV (1984), 284; 'mantello', Archi and Biga, ARET III (1982), 338; Archi, ARET I (1985), 275; Archi, ARET VII (1988), 204; Lahlouh and Catagnoti, ARET XII (2006), 512); 'ʾà.-fabric with single/double weft', Mander, MEE 10 (1990), passim); 'stoffe-ʾA. a filo singolo/doppio filo', D’Agostino, MEE 7 (1996), passim; 'tessile di medio/alta qualità', Pomponio, ARET XV/2 (2013), 405); 'cloak', Archi, ARET XX (2018), 268); 'ein Gewand', Samir, ARET XIX (2019), 221."@en, "Cloak; robe; Pasquali, 'Terminologia semitica' (1997), 219–20, suggests an etymology related to the root √ḥtl, 'to wrap'. The number which follows the term might indicate that it was ‘single’ (-I) or ‘folded’ (-II), although a meaning related to the weaving technique (such as tabby or twill) is also a possible explanation. Other translations include: 'un capo di vestiario', Biga and Milano, ARET IV (1984), 284; 'mantello', Archi and Biga, ARET III (1982), 338; Archi, ARET I (1985), 275; Archi, ARET VII (1988), 204; Lahlouh and Catagnoti, ARET XII (2006), 512); 'ʾà.-fabric with single/double weft', Mander, MEE 10 (1990), passim); 'stoffe-ʾA. a filo singolo/doppio filo', D’Agostino, MEE 7 (1996), passim; 'tessile di medio/alta qualità', Pomponio, ARET XV/2 (2013), 405); 'cloak', Archi, ARET XX (2018), 268); 'ein Gewand', Samir, ARET XIX (2019), 221."@ebl ;
+    skos:example "5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 la₂-2 aktum<sup>tug₂</sup> 2 sal-tug₂ 5 ib₃-III<sup>tug₂</sup> sa₆ gun₃ / 5 ib₂-II<sup>tug₂</sup> gun₃ / ugula <i>Ib-al</i>₆<sup>ki</sup> / 5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 aktum<sup>tug₂</sup> 5 ib₂-II<sup>tug₂</sup> sa₆ gun₃ 5 ib₂-II<sup>tug₂</sup> gun₃ / <i>Ma-nu-wa-at</i><sup>ki</sup> 5 double cloaks, 5 low-quality cloaks, 8 skirts, 2 fine cloths, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for) the overseers of Ib’al; 5 double cloaks, 5 low-quality cloaks, 10 skirts, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for the people) of Manuwat ARET XX 8 = 75.2512, obv.XI:1-5."@en, "5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 la₂-2 aktum<sup>tug₂</sup> 2 sal-tug₂ 5 ib₃-III<sup>tug₂</sup> sa₆ gun₃ / 5 ib₂-II<sup>tug₂</sup> gun₃ / ugula <i>Ib-al</i>₆<sup>ki</sup> / 5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 aktum<sup>tug₂</sup> 5 ib₂-II<sup>tug₂</sup> sa₆ gun₃ 5 ib₂-II<sup>tug₂</sup> gun₃ / <i>Ma-nu-wa-at</i><sup>ki</sup> 5 double cloaks, 5 low-quality cloaks, 8 skirts, 2 fine cloths, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for) the overseers of Ib’al; 5 double cloaks, 5 low-quality cloaks, 10 skirts, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for the people) of Manuwat ARET XX 8 = 75.2512, obv.XI:1-5."@ebl ;
     skos:notation "16106" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word10077> a skos:Concept ;
-    skos:prefLabel "ʾa₃-ra-ma-tum "@en ;
-    skos:definition "(Some kind of precious apparel); see Waetzoldt, MEE 12 (2001), 325, who tentatively translates 'pendant in the shape of a mountain goat'. Pasquali, 'Lessico' (2005), connects it to √ḥrm, 'to cover'; Archi, 'Jewels' (2002), 187, translates 'pettorale'."@en ;
-    skos:note "Waetzoldt, MEE 12 (2001), 325"@en, "Archi, 'Jewels' (2002), 187"@en, "Lahlouh and Catagnoti, ARET XII (2006), s.v."@en, "Pasquali, 'Lessico' (2005)"@en  ;
+    skos:prefLabel "ʾa₃-ra-ma-tum "@en, "𒂍𒊏𒈠𒌈"@ebl ;
+    skos:definition "(Some kind of precious apparel); see Waetzoldt, MEE 12 (2001), 325, who tentatively translates 'pendant in the shape of a mountain goat'. Pasquali, 'Lessico' (2005), connects it to √ḥrm, 'to cover'; Archi, 'Jewels' (2002), 187, translates 'pettorale'."@en, "(Some kind of precious apparel); see Waetzoldt, MEE 12 (2001), 325, who tentatively translates 'pendant in the shape of a mountain goat'. Pasquali, 'Lessico' (2005), connects it to √ḥrm, 'to cover'; Archi, 'Jewels' (2002), 187, translates 'pettorale'."@ebl ;
+    skos:note "Waetzoldt, MEE 12 (2001), 325"@en, "Archi, 'Jewels' (2002), 187"@en, "Lahlouh and Catagnoti, ARET XII (2006), s.v."@en, "Pasquali, 'Lessico' (2005)"@en, "Waetzoldt, MEE 12 (2001), 325"@ebl, "Archi, 'Jewels' (2002), 187"@ebl, "Lahlouh and Catagnoti, ARET XII (2006), s.v."@ebl, "Pasquali, 'Lessico' (2005)"@ebl ;
     skos:notation "10077" ;
-    skos:example "ŠU₂+ŠA gin₂-DILMUN ku₃:bar₆ šu-bal-ak₄ / 4 gin₂-DILMUN ku₃-gi / <i>ni-zi-mu</i> / 4 ʾ<i>a</i>₃-<i>ra-ma-tum</i> / <i>Zi-mi-ni</i>-ku₃:bar₆ / <i>MA-LIK-TUM</i> <i>Bur-ma-an</i><sup>ki</sup> 20 shekels of silver of the value of 4 shekels of gold, for the plating of 4 (precious items), for Zimini-ku₃:bar₆ queen of Burman (ARET XXI 13 = TM.75.G.10143+ obv.VIII:23-IX:6)."@en ;
+    skos:example "ŠU₂+ŠA gin₂-DILMUN ku₃:bar₆ šu-bal-ak₄ / 4 gin₂-DILMUN ku₃-gi / <i>ni-zi-mu</i> / 4 ʾ<i>a</i>₃-<i>ra-ma-tum</i> / <i>Zi-mi-ni</i>-ku₃:bar₆ / <i>MA-LIK-TUM</i> <i>Bur-ma-an</i><sup>ki</sup> 20 shekels of silver of the value of 4 shekels of gold, for the plating of 4 (precious items), for Zimini-ku₃:bar₆ queen of Burman (ARET XXI 13 = TM.75.G.10143+ obv.VIII:23-IX:6)."@en, "ŠU₂+ŠA gin₂-DILMUN ku₃:bar₆ šu-bal-ak₄ / 4 gin₂-DILMUN ku₃-gi / <i>ni-zi-mu</i> / 4 ʾ<i>a</i>₃-<i>ra-ma-tum</i> / <i>Zi-mi-ni</i>-ku₃:bar₆ / <i>MA-LIK-TUM</i> <i>Bur-ma-an</i><sup>ki</sup> 20 shekels of silver of the value of 4 shekels of gold, for the plating of 4 (precious items), for Zimini-ku₃:bar₆ queen of Burman (ARET XXI 13 = TM.75.G.10143+ obv.VIII:23-IX:6)."@ebl ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word1476> a skos:Concept ;
-    skos:prefLabel "ba-ra-i"@en ;
-    skos:definition "'Selected; of high quality (referred to wool)'."@en ;
-    skos:note "Pasquali, 'Terminologia semitica dei tessili' (1997)"@en ;
+    skos:prefLabel "ba-ra-i"@en, "𒁀𒊏𒄿"@ebl ;
+    skos:definition "'Selected; of high quality (referred to wool)'."@en, "'Selected; of high quality (referred to wool)'."@ebl ;
+    skos:note "Pasquali, 'Terminologia semitica dei tessili' (1997)"@en, "Pasquali, 'Terminologia semitica dei tessili' (1997)"@ebl ;
     skos:notation "1476" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word1667> a skos:Concept ;
-    skos:prefLabel "bi₂-da-ʾa₃-tum"@en ;
+    skos:prefLabel "bi₂-da-ʾa₃-tum"@en, "𒉈𒁕𒂍𒌈"@ebl ;
     skos:altLabel "NE-da-ʾa₃-tum"@en ;
-    skos:definition "'Opening ceremony', from √ptḥ (Sum. giš-gal₂-taka₄). See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)."@en ;
-    skos:note "See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)"@en ;
-    skos:historyNote "The reading NE-da-ʾa₃-tum is now abandoned."@en ;
+    skos:definition "'Opening ceremony', from √ptḥ (Sum. giš-gal₂-taka₄). See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)."@en, "'Opening ceremony', from √ptḥ (Sum. giš-gal₂-taka₄). See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)."@ebl ;
+    skos:note "See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)"@en, "See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)"@ebl ;
+    skos:historyNote "The reading NE-da-ʾa₃-tum is now abandoned."@en, "The reading NE-da-ʾa₃-tum is now abandoned."@ebl ;
     skos:notation "1667" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word1652> a skos:Concept ;
-    skos:prefLabel "BURU₄-MUŠEN"@en ;
-    skos:definition "'(A kind of bird of prey)', see Hajouz, 'Wortschatz' (2018), 91-92. See also VE 1370' buru₄<sup>mušen</sup> / <i>la-ḫa-bu</i>₃."@en ;
+    skos:prefLabel "BURU₄-MUŠEN"@en, "𒁓𒋓𒄷"@ebl ;
+    skos:definition "'(A kind of bird of prey)', see Hajouz, 'Wortschatz' (2018), 91-92. See also VE 1370' buru₄<sup>mušen</sup> / <i>la-ḫa-bu</i>₃."@en, "'(A kind of bird of prey)', see Hajouz, 'Wortschatz' (2018), 91-92. See also VE 1370' buru₄<sup>mušen</sup> / <i>la-ḫa-bu</i>₃."@ebl ;
     skos:notation "1652" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word2231> a skos:Concept ;
-    skos:prefLabel "E₂"@en ;
-    skos:definition "'House; temple'."@en ;
+    skos:prefLabel "E₂"@en, "𒂍"@ebl ;
+    skos:definition "'House; temple'."@en, "'House; temple'."@ebl ;
     skos:notation "2231" ;
     skos:narrower <word13552> ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word13552> a skos:Concept ;
-    skos:prefLabel "E₂-DINGIR-DINGIR"@en ;
-    skos:definition "'Temple of the deified ancestors'."@en ;
-    skos:note "Pasquali, 'É dingir-dingir(-dingir)' (2023)"@en ;
+    skos:prefLabel "E₂-DINGIR-DINGIR"@en, "𒂍𒀭𒀭"@ebl ;
+    skos:definition "'Temple of the deified ancestors'."@en, "'Temple of the deified ancestors'."@ebl ;
+    skos:note "Pasquali, 'É dingir-dingir(-dingir)' (2023)"@en, "Pasquali, 'É dingir-dingir(-dingir)' (2023)"@ebl ;
     skos:notation "13552" ;
     skos:inScheme <> .
 
@@ -113,25 +113,25 @@
     skos:topConceptOf <> .
 
 <word1923> a skos:Concept ;
-    skos:prefLabel "GADA"@en ;
-    skos:definition "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."@en ;
-    skos:note "Marchesi, 'Plants and Trees' (2013), 276"@en ;
+    skos:prefLabel "GADA"@en, "𒃰"@ebl ;
+    skos:definition "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."@en, "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."@ebl ;
+    skos:note "Marchesi, 'Plants and Trees' (2013), 276"@en, "Marchesi, 'Plants and Trees' (2013), 276"@ebl ;
     skos:notation "1923" ;
     skos:related <word77>, <word400001> ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word77> a skos:Concept ;
-    skos:prefLabel "GADA-TUG₂"@en ;
-    skos:definition "'Linen robe or fabric'; ▶︎ gada may refer to both fabric and linen plant/seed, but the presence of the determinative suggests GADA-TUG₂ refers specifically to a linen robe or fabric."@en ;
-    skos:note "Marchesi, 'Plants and Trees' (2013), 276"@en ;
+    skos:prefLabel "GADA-TUG₂"@en, "𒃰𒌆"@ebl ;
+    skos:definition "'Linen robe or fabric'; ▶︎ gada may refer to both fabric and linen plant/seed, but the presence of the determinative suggests GADA-TUG₂ refers specifically to a linen robe or fabric."@en, "'Linen robe or fabric'; ▶︎ gada may refer to both fabric and linen plant/seed, but the presence of the determinative suggests GADA-TUG₂ refers specifically to a linen robe or fabric."@ebl ;
+    skos:note "Marchesi, 'Plants and Trees' (2013), 276"@en, "Marchesi, 'Plants and Trees' (2013), 276"@ebl ;
     skos:notation "77" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <word2314> a skos:Concept ;
-    skos:prefLabel "GANA₂-KI"@en ;
-    skos:definition "'Plot of land'. See also VE 842-844."@en ;
+    skos:prefLabel "GANA₂-KI"@en, "𒃷𒆠"@ebl  ;
+    skos:definition "'Plot of land'. See also VE 842-844."@en, "'Plot of land'. See also VE 842-844."@ebl ;
     skos:notation "2314" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
