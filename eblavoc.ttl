@@ -5,7 +5,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix vann: <http://purl.org/vocab/vann/> .
 @base <https://purl.org/eblavoc/> .
+
+<https://purl.org/eblavoc/> vann:preferredNamespaceUri "https://purl.org/eblavoc/"^^xsd:string .
 
 eblavoc: a skos:ConceptScheme ;
     dct:title "EblaVoc"@en ;
