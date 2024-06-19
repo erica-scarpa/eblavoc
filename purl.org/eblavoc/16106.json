@@ -1,0 +1,202 @@
+{
+  "id": "https://purl.org/eblavoc/16106",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "ʾa₃-da-um-TUG₂",
+    "ebl": "𒂍𒁕𒌝𒌆"
+  },
+  "hiddenLabel": {
+    "en": [
+      "'a3-da-um"
+    ],
+    "ebl": [
+      "'a3-da-um"
+    ]
+  },
+  "definition": {
+    "en": "Cloak; robe; Pasquali, 'Terminologia semitica' (1997), 219–20, suggests an etymology related to the root √ḥtl, 'to wrap'. The number which follows the term might indicate that it was ‘single’ (-I) or ‘folded’ (-II), although a meaning related to the weaving technique (such as tabby or twill) is also a possible explanation. Other translations include: 'un capo di vestiario', Biga and Milano, ARET IV (1984), 284; 'mantello', Archi and Biga, ARET III (1982), 338; Archi, ARET I (1985), 275; Archi, ARET VII (1988), 204; Lahlouh and Catagnoti, ARET XII (2006), 512); 'ʾà.-fabric with single/double weft', Mander, MEE 10 (1990), passim); 'stoffe-ʾA. a filo singolo/doppio filo', D’Agostino, MEE 7 (1996), passim; 'tessile di medio/alta qualità', Pomponio, ARET XV/2 (2013), 405); 'cloak', Archi, ARET XX (2018), 268); 'ein Gewand', Samir, ARET XIX (2019), 221.",
+    "ebl": "Cloak; robe; Pasquali, 'Terminologia semitica' (1997), 219–20, suggests an etymology related to the root √ḥtl, 'to wrap'. The number which follows the term might indicate that it was ‘single’ (-I) or ‘folded’ (-II), although a meaning related to the weaving technique (such as tabby or twill) is also a possible explanation. Other translations include: 'un capo di vestiario', Biga and Milano, ARET IV (1984), 284; 'mantello', Archi and Biga, ARET III (1982), 338; Archi, ARET I (1985), 275; Archi, ARET VII (1988), 204; Lahlouh and Catagnoti, ARET XII (2006), 512); 'ʾà.-fabric with single/double weft', Mander, MEE 10 (1990), passim); 'stoffe-ʾA. a filo singolo/doppio filo', D’Agostino, MEE 7 (1996), passim; 'tessile di medio/alta qualità', Pomponio, ARET XV/2 (2013), 405); 'cloak', Archi, ARET XX (2018), 268); 'ein Gewand', Samir, ARET XIX (2019), 221."
+  },
+  "notation": [
+    "16106"
+  ],
+  "example": {
+    "en": "5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 la₂-2 aktum<sup>tug₂</sup> 2 sal-tug₂ 5 ib₃-III<sup>tug₂</sup> sa₆ gun₃ / 5 ib₂-II<sup>tug₂</sup> gun₃ / ugula <i>Ib-al</i>₆<sup>ki</sup> / 5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 aktum<sup>tug₂</sup> 5 ib₂-II<sup>tug₂</sup> sa₆ gun₃ 5 ib₂-II<sup>tug₂</sup> gun₃ / <i>Ma-nu-wa-at</i><sup>ki</sup> 5 double cloaks, 5 low-quality cloaks, 8 skirts, 2 fine cloths, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for) the overseers of Ib’al; 5 double cloaks, 5 low-quality cloaks, 10 skirts, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for the people) of Manuwat ARET XX 8 = 75.2512, obv.XI:1-5.",
+    "ebl": "5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 la₂-2 aktum<sup>tug₂</sup> 2 sal-tug₂ 5 ib₃-III<sup>tug₂</sup> sa₆ gun₃ / 5 ib₂-II<sup>tug₂</sup> gun₃ / ugula <i>Ib-al</i>₆<sup>ki</sup> / 5 ʾ<i>a</i>₃-<i>da-um</i><sup>tug₂</sup>-II 5 gu-dul₃<sup>tug₂</sup> 10 aktum<sup>tug₂</sup> 5 ib₂-II<sup>tug₂</sup> sa₆ gun₃ 5 ib₂-II<sup>tug₂</sup> gun₃ / <i>Ma-nu-wa-at</i><sup>ki</sup> 5 double cloaks, 5 low-quality cloaks, 8 skirts, 2 fine cloths, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for) the overseers of Ib’al; 5 double cloaks, 5 low-quality cloaks, 10 skirts, 5 embroidered waistbands of good quality, 5 embroidered waistbands, (for the people) of Manuwat ARET XX 8 = 75.2512, obv.XI:1-5."
+  },
+  "narrower": [
+    {
+      "id": "https://purl.org/eblavoc/1054",
+      "prefLabel": {
+        "en": "ʾa₃-Ⅰ",
+        "ebl": "𒂍𒁹"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://purl.org/eblavoc/",
+      "title": {
+        "en": "EblaVoc"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://purl.org/eblavoc/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://purl.org/eblavoc/",
+      "title": {
+        "en": "EblaVoc"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
