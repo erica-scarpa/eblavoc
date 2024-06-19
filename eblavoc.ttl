@@ -426,7 +426,7 @@
     skos:member <https://purl.org/eblavoc/1054> ;
     skos:member <https://purl.org/eblavoc/16106> ;
     skos:member <https://purl.org/eblavoc/77> ;
-    skos:member <https://purl.org/eblavoc/1923> 
+    skos:member <https://purl.org/eblavoc/1923> ;
     skos:member <https://purl.org/eblavoc/138> ;
     skos:member <https://purl.org/eblavoc/400006> .
 
