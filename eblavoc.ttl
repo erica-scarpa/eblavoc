@@ -363,7 +363,25 @@
     skos:prefLabel "SI-UDU-UR₄"@en ;
     skos:definition "'Plucked wool''."@en ;
     skos:notation "10372" ;
-    skos:note "Lahlouh and Catagnoti, ARET XII (2006), 579 s.v. "@en ;
+    skos:note "Lahlouh and Catagnoti, ARET XII (2006), 579 s.v."@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/400005> a skos:Concept ;
+    skos:prefLabel "še₃"@en ;
+    skos:altLabel "eš₂"@en ;
+    skos:hiddenLabel "she3"@en, "esh2"@en ;
+    skos:definition "Logographic writing for the masc. gen. sing. relative pronoun. In the past transliterated as eš₂ and compared to the preposition iš."@en ;
+    skos:note "Tonietti, Sistema preposizionale (2013), 30-33"@en ;
+    skos:historyNote "The reading eš₂ is now abandoned."@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/400005> a skos:Concept ;
+    skos:prefLabel "TI-TUG₂"@en ;
+    skos:hiddenLabel "ti-tug₂"@en ;
+    skos:definition "'Ribbed clothing (when referred to a textile)'; see also the translation 'tunic with folds' found in Archi, ARET XIV (2023), s.v. aktumtug₂, 522."@en ;
+    skos:note "Archi, ARET XX (2018), s.v., 290"@en, "Archi, ARET XIV (2023), s.v., 572"@en, "Archi, ARET XIV (2023), s.v. AKTUM-TUG₂, 522"@en, "Biga, 'Textiles' (2010), 155"@en ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
