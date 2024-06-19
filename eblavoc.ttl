@@ -412,6 +412,14 @@
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
+<https://purl.org/eblavoc/349> a skos:Concept ;
+    skos:prefLabel "U₂-HAB₂"@en ;
+    skos:definition "'Dark red'; note that in VE 228 U₂-GIGIR // a-ša-ḫa-bu₃, Akk. <i>isḫappu</i>, “rogue man”, U₂-HAB₂ has been misinterpreted as a variant of gišḫab, Akk. <i>ḫūratu</i>."@en ;
+    skos:notation "349" ;
+    skos:note "Conti, 'Il sillabario' (1990), 112"@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
 <https://purl.org/eblavoc/6246> a skos:Concept ;
     skos:prefLabel "ZA:GIN₃"@en ;
     skos:definition "'Lapis lazuli'."@en ;
