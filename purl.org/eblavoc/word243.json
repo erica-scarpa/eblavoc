@@ -5,6 +5,16 @@
     "en": "AN.ŠE₃.GU₂",
     "ebl": "𒀭𒂠𒄘"
   },
+  "hiddenLabel": {
+    "en": [
+      "AN.ŠE3.GU2",
+      "AN.SHE3.GU2"
+    ],
+    "ebl": [
+      "AN.ŠE3.GU2",
+      "AN.SHE3.GU2"
+    ]
+  },
   "definition": {
     "en": "'(Partial) sum, total'.",
     "ebl": "'(Partial) sum, total'."
