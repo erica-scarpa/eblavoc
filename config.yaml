@@ -1,6 +1,6 @@
 ---
 # see https://github.com/nextapps-de/flexsearch#tokenizer-prefix-search for options
-tokenizer: "full" # strict, forward, reverse, full
+tokenizer: "reverse" # strict, forward, reverse, full
 custom_domain: ""
 fail_on_validation: true
 searchableAttributes:
