@@ -10,14 +10,12 @@
   "notation": [
     "1231"
   ],
-  "related": [
-    {
-      "id": "https://purl.org/eblavoc/word5529",
-      "prefLabel": {
-        "en": "LAGAB×LA₂"
-      }
+  "broader": {
+    "id": "https://purl.org/eblavoc/word5529",
+    "prefLabel": {
+      "en": "LAGAB×LA₂"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",

@@ -7,14 +7,12 @@
   "notation": [
     "14631"
   ],
-  "related": [
-    {
-      "id": "https://purl.org/eblavoc/word6078",
-      "prefLabel": {
-        "en": "na-mur-ra-tum"
-      }
+  "broader": {
+    "id": "https://purl.org/eblavoc/word6078",
+    "prefLabel": {
+      "en": "na-mur-ra-tum"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",

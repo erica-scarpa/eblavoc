@@ -15,14 +15,12 @@
   "notation": [
     "1848"
   ],
-  "related": [
-    {
-      "id": "https://purl.org/eblavoc/word717",
-      "prefLabel": {
-        "en": "li-im"
-      }
+  "broader": {
+    "id": "https://purl.org/eblavoc/word717",
+    "prefLabel": {
+      "en": "li-im"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",

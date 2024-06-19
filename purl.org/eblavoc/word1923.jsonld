@@ -20,21 +20,13 @@
   "notation": [
     "1923"
   ],
-  "narrower": [
-    {
-      "id": "https://purl.org/eblavoc/word77",
-      "prefLabel": {
-        "en": "GADA-TUG₂",
-        "ebl": "𒃰𒌆"
-      }
-    },
-    {
-      "id": "https://purl.org/eblavoc/word400001",
-      "prefLabel": {
-        "en": "GIB₃.GARIG.TUR"
-      }
+  "broader": {
+    "id": "https://purl.org/eblavoc/word77",
+    "prefLabel": {
+      "en": "GADA-TUG₂",
+      "ebl": "𒃰𒌆"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",

@@ -15,14 +15,12 @@
   "notation": [
     "400003"
   ],
-  "related": [
-    {
-      "id": "https://purl.org/eblavoc/word4299",
-      "prefLabel": {
-        "en": "nab-ḫu"
-      }
+  "broader": {
+    "id": "https://purl.org/eblavoc/word4299",
+    "prefLabel": {
+      "en": "nab-ḫu"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",
