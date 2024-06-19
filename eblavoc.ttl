@@ -126,7 +126,7 @@
     skos:definition "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."@en, "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."@ebl ;
     skos:note "Marchesi, 'Plants and Trees' (2013), 276"@en, "Marchesi, 'Plants and Trees' (2013), 276"@ebl ;
     skos:notation "1923" ;
-    skos:related <word77>, <word400001> ;
+    skos:narrower <word77>, <word400001> ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
