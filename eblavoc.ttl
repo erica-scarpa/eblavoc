@@ -423,5 +423,48 @@
 
 <https://purl.org/eblavoc/Textiles> a skos:Collection ;
     skos:prefLabel "Textiles and garments"@en ;
+    skos:member <https://purl.org/eblavoc/1054> ;
     skos:member <https://purl.org/eblavoc/16106> ;
-    skos:member <https://purl.org/eblavoc/77> .
+    skos:member <https://purl.org/eblavoc/77> ;
+    skos:member <https://purl.org/eblavoc/1923> 
+    skos:member <https://purl.org/eblavoc/138> ;
+    skos:member <https://purl.org/eblavoc/400006> .
+
+<https://purl.org/eblavoc/Animals> a skos:Collection ;
+    skos:prefLabel "Animals"@en ;
+    skos:member <https://purl.org/eblavoc/1652> .
+
+<https://purl.org/eblavoc/Jewels> a skos:Collection ;
+    skos:prefLabel "Jewels and precious apparel"@en ;
+    skos:member <https://purl.org/eblavoc/10077> ;
+    skos:member <https://purl.org/eblavoc/1955> ;
+    skos:member <https://purl.org/eblavoc/400002> ;
+    skos:member <https://purl.org/eblavoc/1497> .
+
+<https://purl.org/eblavoc/Materials> a skos:Collection ;
+    skos:prefLabel "Materials"@en ;
+    skos:member <https://purl.org/eblavoc/10054> ;
+    skos:member <https://purl.org/eblavoc/6078>;
+    skos:member <https://purl.org/eblavoc/14631> ;
+    skos:member <https://purl.org/eblavoc/4299> ;
+    skos:member <https://purl.org/eblavoc/400003> ;
+    skos:member <https://purl.org/eblavoc/400004> ;
+    skos:member <https://purl.org/eblavoc/6246> .
+
+<https://purl.org/eblavoc/Plants> a skos:Collection ;
+    skos:prefLabel "Plants"@en ;
+    skos:member <https://purl.org/eblavoc/15738> .
+
+<https://purl.org/eblavoc/Colors> a skos:Collection ;
+    skos:prefLabel "Colors"@en ;
+    skos:member <https://purl.org/eblavoc/11809> .
+
+<https://purl.org/eblavoc/Numbers> a skos:Collection ;
+    skos:prefLabel "Numbers"@en ;
+    skos:member <https://purl.org/eblavoc/1848> ;
+    skos:member <https://purl.org/eblavoc/717> ;
+    skos:member <https://purl.org/eblavoc/2260> ;
+    skos:member <https://purl.org/eblavoc/16655>;
+    skos:member <https://purl.org/eblavoc/16571>;
+    skos:member <https://purl.org/eblavoc/244> ;
+    skos:member <https://purl.org/eblavoc/15903> .
