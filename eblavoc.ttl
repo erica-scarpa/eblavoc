@@ -31,6 +31,7 @@
 
 <word243> a skos:Concept ;
     skos:prefLabel "AN.ŠE₃.GU₂"@en ;
+    skos:altLabel "𒀭𒂠𒄘" ;
     skos:definition "'(Partial) sum, total'."@en ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
