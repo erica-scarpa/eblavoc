@@ -25,7 +25,6 @@
 
 <word1314> a skos:Concept ;
     skos:prefLabel "AN.ŠE₃"@en, "𒀭𒂠"@ebl ;
-    skos:hiddenLabel "AN.ŠE3"@en, "AN.ŠE3"@ebl;
     skos:hiddenLabel "AN.SHE3"@en, "AN.SHE3"@ebl;
     skos:definition "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@en, "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@ebl ;
     skos:note "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@en, "Conti, 'Sillabario' (1990), 190"@en, "Krebernik and Kogan, 'Eblaite', (2021), 703"@en, "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@ebl, "Conti, 'Sillabario' (1990), 190"@ebl, "Krebernik and Kogan, 'Eblaite', (2021), 703"@ebl ;
@@ -35,7 +34,6 @@
 
 <word243> a skos:Concept ;
     skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@ebl ;
-    skos:hiddenLabel "AN.ŠE3.GU2"@en, "AN.ŠE3.GU2"@ebl;
     skos:hiddenLabel "AN.SHE3.GU2"@en, "AN.SHE3.GU2"@ebl;
     skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@ebl ;
     skos:notation "243" ;
@@ -82,6 +80,8 @@
 <word1667> a skos:Concept ;
     skos:prefLabel "bi₂-da-ʾa₃-tum"@en, "𒉈𒁕𒂍𒌈"@ebl ;
     skos:altLabel "NE-da-ʾa₃-tum"@en ;
+    skos:hiddenLabel "bi2-da-'a3-tum"@en, "bi2-da-'a3-tum"@ebl ;
+    skos:hiddenLabel "NE-da-'a3-tum"@en, "NE-da-'a3-tum"@ebl ;
     skos:definition "'Opening ceremony', from √ptḥ (Sum. giš-gal₂-taka₄). See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)."@en, "'Opening ceremony', from √ptḥ (Sum. giš-gal₂-taka₄). See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)."@ebl ;
     skos:note "See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)"@en, "See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)"@ebl ;
     skos:historyNote "The reading NE-da-ʾa₃-tum is now abandoned."@en, "The reading NE-da-ʾa₃-tum is now abandoned."@ebl ;
@@ -91,6 +91,7 @@
 
 <word1652> a skos:Concept ;
     skos:prefLabel "BURU₄-MUŠEN"@en, "𒁓𒋓𒄷"@ebl ;
+    skos:hiddenLabel "BURU4-MUSHEN"@en, "BURU4-MUSHEN"@ebl ;
     skos:definition "'(A kind of bird of prey)', see Hajouz, 'Wortschatz' (2018), 91-92. See also VE 1370' buru₄<sup>mušen</sup> / <i>la-ḫa-bu</i>₃."@en, "'(A kind of bird of prey)', see Hajouz, 'Wortschatz' (2018), 91-92. See also VE 1370' buru₄<sup>mušen</sup> / <i>la-ḫa-bu</i>₃."@ebl ;
     skos:notation "1652" ;
     skos:inScheme <> ;
@@ -98,6 +99,7 @@
 
 <word2231> a skos:Concept ;
     skos:prefLabel "E₂"@en, "𒂍"@ebl ;
+    skos:hiddenLabel "E2"@en, "E2"@ebl ;
     skos:definition "'House; temple'."@en, "'House; temple'."@ebl ;
     skos:notation "2231" ;
     skos:narrower <word13552> ;
