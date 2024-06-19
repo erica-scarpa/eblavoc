@@ -1,21 +1,26 @@
 {
-  "id": "https://purl.org/eblavoc/6246",
+  "id": "https://purl.org/eblavoc/9128",
   "type": "Concept",
   "prefLabel": {
-    "en": "ZA:GIN₃"
-  },
-  "definition": {
-    "en": "'Lapis lazuli'."
+    "en": "ʾa₅-za-ru₁₂"
   },
   "notation": [
-    "6246"
+    "9128"
   ],
-  "broader": {
-    "id": "https://purl.org/eblavoc/10054",
-    "prefLabel": {
-      "en": "GIN₃-GIN₃"
+  "related": [
+    {
+      "id": "https://purl.org/eblavoc/400008",
+      "prefLabel": {
+        "en": "NI-za-ru₁₂"
+      }
+    },
+    {
+      "id": "https://purl.org/eblavoc/400009",
+      "prefLabel": {
+        "en": "i₃-za-ru₁₂"
+      }
     }
-  },
+  ],
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",
@@ -27,6 +32,14 @@
   "inSchemeAll": [
     {
       "id": "https://purl.org/eblavoc/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://purl.org/eblavoc/",
+      "title": {
+        "en": "EblaVoc"
+      }
     }
   ],
   "@context": {
