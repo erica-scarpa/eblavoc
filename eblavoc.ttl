@@ -459,12 +459,3 @@
     skos:prefLabel "Colors"@en ;
     skos:member <https://purl.org/eblavoc/11809> .
 
-<https://purl.org/eblavoc/Numbers> a skos:Collection ;
-    skos:prefLabel "Numbers"@en ;
-    skos:member <https://purl.org/eblavoc/1848> ;
-    skos:member <https://purl.org/eblavoc/717> ;
-    skos:member <https://purl.org/eblavoc/2260> ;
-    skos:member <https://purl.org/eblavoc/16655>;
-    skos:member <https://purl.org/eblavoc/16571>;
-    skos:member <https://purl.org/eblavoc/244> ;
-    skos:member <https://purl.org/eblavoc/15903> .
