@@ -20,15 +20,13 @@
   "notation": [
     "400001"
   ],
-  "related": [
-    {
-      "id": "https://purl.org/eblavoc/word1923",
-      "prefLabel": {
-        "en": "GADA",
-        "ebl": "𒃰"
-      }
+  "broader": {
+    "id": "https://purl.org/eblavoc/word1923",
+    "prefLabel": {
+      "en": "GADA",
+      "ebl": "𒃰"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",
