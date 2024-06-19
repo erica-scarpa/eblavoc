@@ -115,7 +115,7 @@
 <https://purl.org/eblavoc/400007> a skos:Concept ;
     skos:prefLabel "E₂-TI-TUG₂"@en ;
     skos:definition "'A warehouse of clothing; house of the garments (an administrative unit of the Palace)'."@en  ;
-    skos:note "Archi, ARET XX (2018), s.v., 273"@en, "Archi, ARET XIV (2023), s.v., 530"@ebl ;
+    skos:note "Archi, ARET XX (2018), s.v., 273"@en, "Archi, ARET XIV (2023), s.v., 530"@en ;
     skos:related <https://purl.org/eblavoc/400006> ;
     skos:notation "13552" ;
     skos:inScheme <> .
@@ -386,8 +386,8 @@
 
 <https://purl.org/eblavoc/400006> a skos:Concept ;
     skos:prefLabel "TI-TUG₂"@en ;
-    skos:hiddenLabel "ti-tug₂"@en ;
-    skos:definition "'Ribbed clothing (when referred to a textile)'; see also the translation 'tunic with folds' found in Archi, ARET XIV (2023), s.v. aktumtug₂, 522."@en ;
+    skos:hiddenLabel "ti-tug2"@en ;
+    skos:definition "'Ribbed clothing (when referred to a textile)'; see also the translation 'tunic with folds' found in Archi, ARET XIV (2023), s.v. AKTUM-TUG₂, 522."@en ;
     skos:note "Archi, ARET XX (2018), s.v., 290"@en, "Archi, ARET XIV (2023), s.v., 572"@en, "Archi, ARET XIV (2023), s.v. AKTUM-TUG₂, 522"@en, "Biga, 'Textiles' (2010), 155"@en ;
     skos:notation "400006" ;
     skos:inScheme <> ;
@@ -397,4 +397,5 @@
     skos:prefLabel "ZA:GIN₃"@en ;
     skos:definition "'Lapis lazuli'."@en ;
     skos:notation "6246" ;
+    owl:deprecated true ;
     skos:inScheme <> .
