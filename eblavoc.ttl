@@ -14,32 +14,6 @@
     dct:description "A thesaurus of the Eblaite language"@en ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 
-<https://purl.org/eblavoc/1493> a skos:Concept ;
-    skos:prefLabel "A"@en, "𒀀"@ebl ;
-    skos:definition "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@en, "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@ebl ;
-    skos:note "Sallaberger, 'Nachrichten' (2003), 620 and n19"@en, "Sallaberger, 'Nachrichten' (2003), 620 and n19"@ebl ;
-    skos:example "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@en, "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@ebl ;
-    skos:notation "1493" ;
-    skos:inScheme <> ;
-    skos:topConceptOf <> .
-
-<https://purl.org/eblavoc/1314> a skos:Concept ;
-    skos:prefLabel "AN.ŠE₃"@en, "𒀭𒂠"@ebl ;
-    skos:hiddenLabel "AN.SHE3"@en, "AN.SHE3"@ebl;
-    skos:definition "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@en, "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@ebl ;
-    skos:note "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@en, "Conti, 'Sillabario' (1990), 190"@en, "Krebernik and Kogan, 'Eblaite', (2021), 703"@en, "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@ebl, "Conti, 'Sillabario' (1990), 190"@ebl, "Krebernik and Kogan, 'Eblaite', (2021), 703"@ebl ;
-    skos:notation "1314" ;
-    skos:inScheme <> ;
-    skos:topConceptOf <> .
-
-<https://purl.org/eblavoc/243> a skos:Concept ;
-    skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@ebl ;
-    skos:hiddenLabel "AN.SHE3.GU2"@en, "AN.SHE3.GU2"@ebl;
-    skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@ebl ;
-    skos:notation "243" ;
-    skos:inScheme <> ;
-    skos:topConceptOf <> .
-
 <https://purl.org/eblavoc/1054> a skos:Concept ;
     skos:prefLabel "ʾa₃-Ⅰ"@en, "𒂍𒁹"@ebl ;
     skos:hiddenLabel "'a3"@en, "'a3"@ebl;
@@ -68,14 +42,6 @@
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
-<https://purl.org/eblavoc/1476> a skos:Concept ;
-    skos:prefLabel "ba-ra-i"@en, "𒁀𒊏𒄿"@ebl ;
-    skos:definition "'Selected; of high quality (referred to wool)'."@en, "'Selected; of high quality (referred to wool)'."@ebl ;
-    skos:note "Pasquali, 'Terminologia semitica dei tessili' (1997)"@en, "Pasquali, 'Terminologia semitica dei tessili' (1997)"@ebl ;
-    skos:notation "1476" ;
-    skos:inScheme <> ;
-    skos:topConceptOf <> .
-
 <https://purl.org/eblavoc/9128> a skos:Concept ;
     skos:prefLabel "ʾa₅-za-ru₁₂"@en ;
     skos:notation "9128" ;
@@ -94,6 +60,40 @@
     skos:notation "400009" ;
     owl:deprecated true ;
     skos:inScheme <> .
+
+<https://purl.org/eblavoc/1493> a skos:Concept ;
+    skos:prefLabel "A"@en, "𒀀"@ebl ;
+    skos:definition "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@en, "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@ebl ;
+    skos:note "Sallaberger, 'Nachrichten' (2003), 620 and n19"@en, "Sallaberger, 'Nachrichten' (2003), 620 and n19"@ebl ;
+    skos:example "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@en, "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@ebl ;
+    skos:notation "1493" ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/1314> a skos:Concept ;
+    skos:prefLabel "AN.ŠE₃"@en, "𒀭𒂠"@ebl ;
+    skos:hiddenLabel "AN.SHE3"@en, "AN.SHE3"@ebl;
+    skos:definition "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@en, "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@ebl ;
+    skos:note "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@en, "Conti, 'Sillabario' (1990), 190"@en, "Krebernik and Kogan, 'Eblaite', (2021), 703"@en, "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@ebl, "Conti, 'Sillabario' (1990), 190"@ebl, "Krebernik and Kogan, 'Eblaite', (2021), 703"@ebl ;
+    skos:notation "1314" ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/243> a skos:Concept ;
+    skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@ebl ;
+    skos:hiddenLabel "AN.SHE3.GU2"@en, "AN.SHE3.GU2"@ebl;
+    skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@ebl ;
+    skos:notation "243" ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/1476> a skos:Concept ;
+    skos:prefLabel "ba-ra-i"@en, "𒁀𒊏𒄿"@ebl ;
+    skos:definition "'Selected; of high quality (referred to wool)'."@en, "'Selected; of high quality (referred to wool)'."@ebl ;
+    skos:note "Pasquali, 'Terminologia semitica dei tessili' (1997)"@en, "Pasquali, 'Terminologia semitica dei tessili' (1997)"@ebl ;
+    skos:notation "1476" ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
 
 <https://purl.org/eblavoc/1667> a skos:Concept ;
     skos:prefLabel "bi₂-da-ʾa₃-tum"@en, "𒉈𒁕𒂍𒌈"@ebl ;
@@ -259,7 +259,7 @@
 
 <https://purl.org/eblavoc/1848> a skos:Concept ;
     skos:prefLabel "li"@en ;
-    skos:definition "'One thousand'; also wr. ▶︎ li-im."@en ;
+    skos:definition "'One thousand'; mainly wr. ▶︎ li-im."@en ;
     skos:note "Bonechi, 'Lexical Numbers' (2021)"@en ;
     skos:notation "1848" ;
     skos:inScheme <> .
@@ -417,3 +417,11 @@
     skos:definition "'Lapis lazuli'."@en ;
     skos:notation "6246" ;
     skos:inScheme <> .
+
+
+# Collections
+
+<https://purl.org/eblavoc/Textiles> a skos:Collection ;
+    skos:prefLabel "Textiles and garments"@en ;
+    skos:member <https://purl.org/eblavoc/16106> ;
+    skos:member <https://purl.org/eblavoc/77> .
