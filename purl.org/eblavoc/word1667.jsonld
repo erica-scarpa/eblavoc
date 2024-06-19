@@ -2,7 +2,8 @@
   "id": "https://purl.org/eblavoc/word1667",
   "type": "Concept",
   "prefLabel": {
-    "en": "bi₂-da-ʾa₃-tum"
+    "en": "bi₂-da-ʾa₃-tum",
+    "ebl": "𒉈𒁕𒂍𒌈"
   },
   "altLabel": {
     "en": [
@@ -10,15 +11,22 @@
     ]
   },
   "definition": {
-    "en": "'Opening ceremony', from √ptḥ (Sum. giš-gal₂-taka₄). See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)."
+    "en": "'Opening ceremony', from √ptḥ (Sum. giš-gal₂-taka₄). See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016).",
+    "ebl": "'Opening ceremony', from √ptḥ (Sum. giš-gal₂-taka₄). See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)."
   },
   "note": {
     "en": [
+      "See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)"
+    ],
+    "ebl": [
       "See Pasquali, ‘Éblaïte bí-da-'à-tum’ (2016)"
     ]
   },
   "historyNote": {
     "en": [
+      "The reading NE-da-ʾa₃-tum is now abandoned."
+    ],
+    "ebl": [
       "The reading NE-da-ʾa₃-tum is now abandoned."
     ]
   },

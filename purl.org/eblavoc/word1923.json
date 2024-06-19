@@ -2,13 +2,18 @@
   "id": "https://purl.org/eblavoc/word1923",
   "type": "Concept",
   "prefLabel": {
-    "en": "GADA"
+    "en": "GADA",
+    "ebl": "𒃰"
   },
   "definition": {
-    "en": "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."
+    "en": "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276.",
+    "ebl": "'Linen'; may refer to both fabric and linen plant/seed. Also wr. ▶︎ GADA-TUG₂. TM.75.G.10142 has the unique spelling ▶︎ GIB₃.GARIG.TUR, see Marchesi, 'Plants and Trees' (2013), 276."
   },
   "note": {
     "en": [
+      "Marchesi, 'Plants and Trees' (2013), 276"
+    ],
+    "ebl": [
       "Marchesi, 'Plants and Trees' (2013), 276"
     ]
   },
@@ -19,7 +24,8 @@
     {
       "id": "https://purl.org/eblavoc/word77",
       "prefLabel": {
-        "en": "GADA-TUG₂"
+        "en": "GADA-TUG₂",
+        "ebl": "𒃰𒌆"
       }
     },
     {

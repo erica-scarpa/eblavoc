@@ -2,10 +2,12 @@
   "id": "https://purl.org/eblavoc/word2231",
   "type": "Concept",
   "prefLabel": {
-    "en": "E₂"
+    "en": "E₂",
+    "ebl": "𒂍"
   },
   "definition": {
-    "en": "'House; temple'."
+    "en": "'House; temple'.",
+    "ebl": "'House; temple'."
   },
   "notation": [
     "2231"
@@ -14,7 +16,8 @@
     {
       "id": "https://purl.org/eblavoc/word13552",
       "prefLabel": {
-        "en": "E₂-DINGIR-DINGIR"
+        "en": "E₂-DINGIR-DINGIR",
+        "ebl": "𒂍𒀭𒀭"
       }
     }
   ],

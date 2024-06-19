@@ -2,13 +2,18 @@
   "id": "https://purl.org/eblavoc/word13552",
   "type": "Concept",
   "prefLabel": {
-    "en": "E₂-DINGIR-DINGIR"
+    "en": "E₂-DINGIR-DINGIR",
+    "ebl": "𒂍𒀭𒀭"
   },
   "definition": {
-    "en": "'Temple of the deified ancestors'."
+    "en": "'Temple of the deified ancestors'.",
+    "ebl": "'Temple of the deified ancestors'."
   },
   "note": {
     "en": [
+      "Pasquali, 'É dingir-dingir(-dingir)' (2023)"
+    ],
+    "ebl": [
       "Pasquali, 'É dingir-dingir(-dingir)' (2023)"
     ]
   },
@@ -18,7 +23,8 @@
   "broader": {
     "id": "https://purl.org/eblavoc/word2231",
     "prefLabel": {
-      "en": "E₂"
+      "en": "E₂",
+      "ebl": "𒂍"
     }
   },
   "inScheme": [

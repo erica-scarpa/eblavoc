@@ -2,10 +2,12 @@
   "id": "https://purl.org/eblavoc/word1652",
   "type": "Concept",
   "prefLabel": {
-    "en": "BURU₄-MUŠEN"
+    "en": "BURU₄-MUŠEN",
+    "ebl": "𒁓𒋓𒄷"
   },
   "definition": {
-    "en": "'(A kind of bird of prey)', see Hajouz, 'Wortschatz' (2018), 91-92. See also VE 1370' buru₄<sup>mušen</sup> / <i>la-ḫa-bu</i>₃."
+    "en": "'(A kind of bird of prey)', see Hajouz, 'Wortschatz' (2018), 91-92. See also VE 1370' buru₄<sup>mušen</sup> / <i>la-ḫa-bu</i>₃.",
+    "ebl": "'(A kind of bird of prey)', see Hajouz, 'Wortschatz' (2018), 91-92. See also VE 1370' buru₄<sup>mušen</sup> / <i>la-ḫa-bu</i>₃."
   },
   "notation": [
     "1652"

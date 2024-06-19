@@ -2,10 +2,12 @@
   "id": "https://purl.org/eblavoc/word1054",
   "type": "Concept",
   "prefLabel": {
-    "en": "ʾa₃-Ⅰ"
+    "en": "ʾa₃-Ⅰ",
+    "ebl": "𒂍𒁹"
   },
   "definition": {
-    "en": "A kind of long garment, probably a tunic."
+    "en": "A kind of long garment, probably a tunic.",
+    "ebl": "A kind of long garment, probably a tunic."
   },
   "notation": [
     "1054"
@@ -14,7 +16,8 @@
     {
       "id": "https://purl.org/eblavoc/word16106",
       "prefLabel": {
-        "en": "ʾa₃-da-um-TUG₂"
+        "en": "ʾa₃-da-um-TUG₂",
+        "ebl": "𒂍𒁕𒌝𒌆"
       }
     }
   ],

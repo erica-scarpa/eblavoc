@@ -2,10 +2,12 @@
   "id": "https://purl.org/eblavoc/word2314",
   "type": "Concept",
   "prefLabel": {
-    "en": "GANA₂-KI"
+    "en": "GANA₂-KI",
+    "ebl": "𒃷𒆠"
   },
   "definition": {
-    "en": "'Plot of land'. See also VE 842-844."
+    "en": "'Plot of land'. See also VE 842-844.",
+    "ebl": "'Plot of land'. See also VE 842-844."
   },
   "notation": [
     "2314"
