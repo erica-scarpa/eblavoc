@@ -2,15 +2,12 @@
   "id": "https://purl.org/eblavoc/word243",
   "type": "Concept",
   "prefLabel": {
-    "en": "AN.ŠE₃.GU₂"
-  },
-  "altLabel": {
-    "akk": [
-      "𒀭𒂠𒄘"
-    ]
+    "en": "AN.ŠE₃.GU₂",
+    "akk": "𒀭𒂠𒄘"
   },
   "definition": {
-    "en": "'(Partial) sum, total'."
+    "en": "'(Partial) sum, total'.",
+    "akk": "'(Partial) sum, total'."
   },
   "notation": [
     "243"
