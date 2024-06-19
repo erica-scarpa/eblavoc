@@ -4,9 +4,17 @@
   "prefLabel": {
     "en": "AN.ŠE₃.GU₂"
   },
+  "altLabel": {
+    "akk": [
+      "𒀭𒂠𒄘"
+    ]
+  },
   "definition": {
     "en": "'(Partial) sum, total'."
   },
+  "notation": [
+    "243"
+  ],
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",

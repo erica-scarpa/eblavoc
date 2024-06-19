@@ -17,6 +17,9 @@
       "Not attested in the EbDA database."
     ]
   },
+  "notation": [
+    "400002"
+  ],
   "inScheme": [
     {
       "id": "https://purl.org/eblavoc/",
