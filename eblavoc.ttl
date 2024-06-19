@@ -15,7 +15,7 @@
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 
 <word1493> a skos:Concept ;
-    skos:prefLabel "A"@en ;
+    skos:prefLabel "A"@en, "𒀀"@cun ;
     skos:definition "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@en ;
     skos:note "Sallaberger, 'Nachrichten' (2003), 620 and n19"@en ;
     skos:example "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@en ;
@@ -32,8 +32,8 @@
     skos:topConceptOf <> .
 
 <word243> a skos:Concept ;
-    skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@akk ;
-    skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@akk ;
+    skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@cun ;
+    skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@cun ;
     skos:notation "243" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
