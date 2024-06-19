@@ -5,12 +5,21 @@
     "en": "GIN₃-GIN₃"
   },
   "definition": {
-    "en": "'Lapis lazuli'."
+    "en": "'Lapis lazuli'; attested in VE 868 (not glossed). The term most frequently occurs with the writing ZA:GIN₃, but ▶︎ ZA-GIN₃ is also attested. The writing ▶︎ GIN₃(-GIN₃) is rare. See Pasquali, Lessico (2005) on the uses of this semi-precious stone attested in the administrative record. It seems that lapis lazuli arrived at Ebla through Mari, see Archi, 'Lapis Lazuli and Shells' (2017). On the etymology, see most recently Oreshko, 'Anatolian Linguistic Influences' (2018), 106."
   },
   "notation": [
     "10054"
   ],
+  "example": {
+    "en": "5 ma-na ša-pi za-gin₃ / mu-DU / <i>Ma-ri</i>₂<sup>ki</sup> / iti <i>ig-za</i> 5 minas and 40 shekels of lapis lazuli (ca.2.6 kilos), income from Mari, month II (ARET XIV 90 = ARET VIII 528 = MEE 5 8 = TM.76.G.528 rev.V:6-9)"
+  },
   "narrower": [
+    {
+      "id": "https://purl.org/eblavoc/6182",
+      "prefLabel": {
+        "en": "ZA-GIN₃"
+      }
+    },
     {
       "id": "https://purl.org/eblavoc/6246",
       "prefLabel": {
