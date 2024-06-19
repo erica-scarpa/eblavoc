@@ -101,7 +101,7 @@
     skos:hiddenLabel "E2"@en, "E2"@ebl ;
     skos:definition "'House; temple'."@en, "'House; temple'."@ebl ;
     skos:notation "2231" ;
-    skos:narrower <https://purl.org/eblavoc/13552> ;
+    skos:narrower <https://purl.org/eblavoc/13552>, <https://purl.org/eblavoc/400007> ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
@@ -112,7 +112,13 @@
     skos:notation "13552" ;
     skos:inScheme <> .
 
-
+<https://purl.org/eblavoc/400007> a skos:Concept ;
+    skos:prefLabel "E₂-TI-TUG₂"@en ;
+    skos:definition "'A warehouse of clothing; house of the garments (an administrative unit of the Palace)'."@en  ;
+    skos:note "Archi, ARET XX (2018), s.v., 273"@en, "Archi, ARET XIV (2023), s.v., 530"@ebl ;
+    skos:related <https://purl.org/eblavoc/400006> ;
+    skos:notation "13552" ;
+    skos:inScheme <> .
 
 <https://purl.org/eblavoc/77> a skos:Concept ;
     skos:prefLabel "GADA-TUG₂"@en, "𒃰𒌆"@ebl ;
@@ -371,17 +377,19 @@
     skos:prefLabel "še₃"@en ;
     skos:altLabel "eš₂"@en ;
     skos:hiddenLabel "she3"@en, "esh2"@en ;
+    skos:notation "400005" ;
     skos:definition "Logographic writing for the masc. gen. sing. relative pronoun. In the past transliterated as eš₂ and compared to the preposition iš."@en ;
     skos:note "Tonietti, Sistema preposizionale (2013), 30-33"@en ;
     skos:historyNote "The reading eš₂ is now abandoned."@en ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
-<https://purl.org/eblavoc/400005> a skos:Concept ;
+<https://purl.org/eblavoc/400006> a skos:Concept ;
     skos:prefLabel "TI-TUG₂"@en ;
     skos:hiddenLabel "ti-tug₂"@en ;
     skos:definition "'Ribbed clothing (when referred to a textile)'; see also the translation 'tunic with folds' found in Archi, ARET XIV (2023), s.v. aktumtug₂, 522."@en ;
     skos:note "Archi, ARET XX (2018), s.v., 290"@en, "Archi, ARET XIV (2023), s.v., 572"@en, "Archi, ARET XIV (2023), s.v. AKTUM-TUG₂, 522"@en, "Biga, 'Textiles' (2010), 155"@en ;
+    skos:notation "400006" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
