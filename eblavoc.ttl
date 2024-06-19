@@ -427,3 +427,26 @@ eblavoc:Textiles a skos:Collection ;
     skos:description "A collection of terms referred to textiles and garments"@en ;
     skos:member eblavoc:1054, eblavoc:16106, eblavoc:77, eblavoc:1923, eblavoc:138, eblavoc:400006 .
 
+eblavoc:Animals a skos:Collection ;
+    skos:prefLabel "Animals"@en ;
+    skos:member eblavoc:1652 .
+
+eblavoc:Jewels a skos:Collection ;
+    skos:prefLabel "Jewels and precious apparel"@en ;
+    skos:member eblavoc:10077, eblavoc:1955, eblavoc:400002, eblavoc:1497 .
+
+eblavoc:Materials a skos:Collection ;
+    skos:prefLabel "Materials"@en ;
+    skos:member eblavoc:10054, eblavoc:6078, eblavoc:14631, eblavoc:4299, eblavoc:400003, eblavoc:400004, eblavoc:6246 .
+
+eblavoc:Plants a skos:Collection ;
+    skos:prefLabel "Plants"@en ;
+    skos:member eblavoc:15738 .
+
+eblavoc:Colors a skos:Collection ;
+    skos:prefLabel "Colors"@en ;
+    skos:member eblavoc:11809 .
+
+eblavoc:Numbers a skos:Collection ;
+    skos:prefLabel "Numbers"@en ;
+    skos:member eblavoc:1848, eblavoc:717, eblavoc:2260, eblavoc:16655, eblavoc:16571, eblavoc:244, eblavoc:15903 .
