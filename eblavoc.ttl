@@ -14,32 +14,6 @@
     dct:description "A thesaurus of the Eblaite language"@en ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 
-<https://purl.org/eblavoc/1493> a skos:Concept ;
-    skos:prefLabel "A"@en, "𒀀"@ebl ;
-    skos:definition "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@en, "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@ebl ;
-    skos:note "Sallaberger, 'Nachrichten' (2003), 620 and n19"@en, "Sallaberger, 'Nachrichten' (2003), 620 and n19"@ebl ;
-    skos:example "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@en, "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@ebl ;
-    skos:notation "1493" ;
-    skos:inScheme <> ;
-    skos:topConceptOf <> .
-
-<https://purl.org/eblavoc/1314> a skos:Concept ;
-    skos:prefLabel "AN.ŠE₃"@en, "𒀭𒂠"@ebl ;
-    skos:hiddenLabel "AN.SHE3"@en, "AN.SHE3"@ebl;
-    skos:definition "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@en, "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@ebl ;
-    skos:note "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@en, "Conti, 'Sillabario' (1990), 190"@en, "Krebernik and Kogan, 'Eblaite', (2021), 703"@en, "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@ebl, "Conti, 'Sillabario' (1990), 190"@ebl, "Krebernik and Kogan, 'Eblaite', (2021), 703"@ebl ;
-    skos:notation "1314" ;
-    skos:inScheme <> ;
-    skos:topConceptOf <> .
-
-<https://purl.org/eblavoc/243> a skos:Concept ;
-    skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@ebl ;
-    skos:hiddenLabel "AN.SHE3.GU2"@en, "AN.SHE3.GU2"@ebl;
-    skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@ebl ;
-    skos:notation "243" ;
-    skos:inScheme <> ;
-    skos:topConceptOf <> .
-
 <https://purl.org/eblavoc/1054> a skos:Concept ;
     skos:prefLabel "ʾa₃-Ⅰ"@en, "𒂍𒁹"@ebl ;
     skos:hiddenLabel "'a3"@en, "'a3"@ebl;
@@ -65,6 +39,51 @@
     skos:note "Waetzoldt, MEE 12 (2001), 325"@en, "Archi, 'Jewels' (2002), 187"@en, "Lahlouh and Catagnoti, ARET XII (2006), s.v."@en, "Pasquali, 'Lessico' (2005)"@en, "Waetzoldt, MEE 12 (2001), 325"@ebl, "Archi, 'Jewels' (2002), 187"@ebl, "Lahlouh and Catagnoti, ARET XII (2006), s.v."@ebl, "Pasquali, 'Lessico' (2005)"@ebl ;
     skos:notation "10077" ;
     skos:example "ŠU₂+ŠA gin₂-DILMUN ku₃:bar₆ šu-bal-ak₄ / 4 gin₂-DILMUN ku₃-gi / <i>ni-zi-mu</i> / 4 ʾ<i>a</i>₃-<i>ra-ma-tum</i> / <i>Zi-mi-ni</i>-ku₃:bar₆ / <i>MA-LIK-TUM</i> <i>Bur-ma-an</i><sup>ki</sup> 20 shekels of silver of the value of 4 shekels of gold, for the plating of 4 (precious items), for Zimini-ku₃:bar₆ queen of Burman (ARET XXI 13 = TM.75.G.10143+ obv.VIII:23-IX:6)."@en, "ŠU₂+ŠA gin₂-DILMUN ku₃:bar₆ šu-bal-ak₄ / 4 gin₂-DILMUN ku₃-gi / <i>ni-zi-mu</i> / 4 ʾ<i>a</i>₃-<i>ra-ma-tum</i> / <i>Zi-mi-ni</i>-ku₃:bar₆ / <i>MA-LIK-TUM</i> <i>Bur-ma-an</i><sup>ki</sup> 20 shekels of silver of the value of 4 shekels of gold, for the plating of 4 (precious items), for Zimini-ku₃:bar₆ queen of Burman (ARET XXI 13 = TM.75.G.10143+ obv.VIII:23-IX:6)."@ebl ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/9128> a skos:Concept ;
+    skos:prefLabel "ʾa₅-za-ru₁₂"@en ;
+    skos:notation "9128" ;
+    skos:related <https://purl.org/eblavoc/400008>, <https://purl.org/eblavoc/400009> ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/400008> a skos:Concept ;
+    skos:prefLabel "NI-za-ru₁₂"@en ;
+    skos:notation "400008" ;
+    owl:deprecated true ;
+    skos:inScheme <> .
+
+<https://purl.org/eblavoc/400009> a skos:Concept ;
+    skos:prefLabel "i₃-za-ru₁₂"@en ;
+    skos:notation "400009" ;
+    owl:deprecated true ;
+    skos:inScheme <> .
+
+<https://purl.org/eblavoc/1493> a skos:Concept ;
+    skos:prefLabel "A"@en, "𒀀"@ebl ;
+    skos:definition "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@en, "'Rain' (when occurring with nig₂-mul(-an); Sallaberger, 'Nachrichten' (2003), 620 and n19, suggests reports of rainfall in neighboring territories were brought to the Palace."@ebl ;
+    skos:note "Sallaberger, 'Nachrichten' (2003), 620 and n19"@en, "Sallaberger, 'Nachrichten' (2003), 620 and n19"@ebl ;
+    skos:example "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@en, "2 ib₂-III<sup>tug₂</sup> gun₃ / maškim / <i>ik-na-da-ar</i> / maškim / <i>iš</i>₁₁-<i>ru-ut</i> / nig₂-mul / A / <i>in</i> / <i>a-ḫa-za-lu</i><sup>ki</sup> / šu-ba₄-ti, 2 embroidered waistbands, Igna-dar's appointee (and) Išrut's appointee, (for bringing back) the news of the rainfall in Aḫazalu have received (ARET XX 8 = TM.75.G.2512, obv.VI:3-12)."@ebl ;
+    skos:notation "1493" ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/1314> a skos:Concept ;
+    skos:prefLabel "AN.ŠE₃"@en, "𒀭𒂠"@ebl ;
+    skos:hiddenLabel "AN.SHE3"@en, "AN.SHE3"@ebl;
+    skos:definition "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@en, "'Upwards; above; in addition to'; See VE 782 AN.ŠE₃ / <i>a-i-num</i>₂, ʿalīnum 'upwards' (Akk. elēnum)."@ebl ;
+    skos:note "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@en, "Conti, 'Sillabario' (1990), 190"@en, "Krebernik and Kogan, 'Eblaite', (2021), 703"@en, "Krecher, 'Sumerische und nichtsumerische' (1984), 157"@ebl, "Conti, 'Sillabario' (1990), 190"@ebl, "Krebernik and Kogan, 'Eblaite', (2021), 703"@ebl ;
+    skos:notation "1314" ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/243> a skos:Concept ;
+    skos:prefLabel "AN.ŠE₃.GU₂"@en, "𒀭𒂠𒄘"@ebl ;
+    skos:hiddenLabel "AN.SHE3.GU2"@en, "AN.SHE3.GU2"@ebl;
+    skos:definition "'(Partial) sum, total'."@en, "'(Partial) sum, total'."@ebl ;
+    skos:notation "243" ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
@@ -101,7 +120,7 @@
     skos:hiddenLabel "E2"@en, "E2"@ebl ;
     skos:definition "'House; temple'."@en, "'House; temple'."@ebl ;
     skos:notation "2231" ;
-    skos:narrower <https://purl.org/eblavoc/13552> ;
+    skos:narrower <https://purl.org/eblavoc/13552>, <https://purl.org/eblavoc/400007> ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
@@ -112,7 +131,13 @@
     skos:notation "13552" ;
     skos:inScheme <> .
 
-
+<https://purl.org/eblavoc/400007> a skos:Concept ;
+    skos:prefLabel "E₂-TI-TUG₂"@en ;
+    skos:definition "'A warehouse of clothing; house of the garments (an administrative unit of the Palace)'."@en  ;
+    skos:note "Archi, ARET XX (2018), s.v., 273"@en, "Archi, ARET XIV (2023), s.v., 530"@en ;
+    skos:related <https://purl.org/eblavoc/400006> ;
+    skos:notation "13552" ;
+    skos:inScheme <> .
 
 <https://purl.org/eblavoc/77> a skos:Concept ;
     skos:prefLabel "GADA-TUG₂"@en, "𒃰𒌆"@ebl ;
@@ -155,9 +180,11 @@
 
 <https://purl.org/eblavoc/10054> a skos:Concept ;
     skos:prefLabel "GIN₃-GIN₃"@en ;
-    skos:definition "'Lapis lazuli'."@en ;
+    skos:hiddenLabel "GIN3-GIN3"@en ;
+    skos:definition "'Lapis lazuli'; attested in VE 868 (not glossed). The term most frequently occurs with the writing ZA:GIN₃, but ▶︎ ZA-GIN₃ is also attested. The writing ▶︎ GIN₃(-GIN₃) is rare. See Pasquali, Lessico (2005) on the uses of this semi-precious stone attested in the administrative record. It seems that lapis lazuli arrived at Ebla through Mari, see Archi, 'Lapis Lazuli and Shells' (2017). On the etymology, see most recently Oreshko, 'Anatolian Linguistic Influences' (2018), 106."@en ;
+    skos:example "5 ma-na ša-pi za-gin₃ / mu-DU / <i>Ma-ri</i>₂<sup>ki</sup> / iti <i>ig-za</i> 5 minas and 40 shekels of lapis lazuli (ca.2.6 kilos), income from Mari, month II (ARET XIV 90 = ARET VIII 528 = MEE 5 8 = TM.76.G.528 rev.V:6-9)"@en ;
     skos:notation "10054" ;
-    skos:narrower <https://purl.org/eblavoc/6246> ;
+    skos:narrower <https://purl.org/eblavoc/6182>, <https://purl.org/eblavoc/6246> ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
@@ -234,7 +261,7 @@
 
 <https://purl.org/eblavoc/1848> a skos:Concept ;
     skos:prefLabel "li"@en ;
-    skos:definition "'One thousand'; also wr. ▶︎ li-im."@en ;
+    skos:definition "'One thousand'; mainly wr. ▶︎ li-im."@en ;
     skos:note "Bonechi, 'Lexical Numbers' (2021)"@en ;
     skos:notation "1848" ;
     skos:inScheme <> .
@@ -371,22 +398,48 @@
     skos:prefLabel "še₃"@en ;
     skos:altLabel "eš₂"@en ;
     skos:hiddenLabel "she3"@en, "esh2"@en ;
+    skos:notation "400005" ;
     skos:definition "Logographic writing for the masc. gen. sing. relative pronoun. In the past transliterated as eš₂ and compared to the preposition iš."@en ;
     skos:note "Tonietti, Sistema preposizionale (2013), 30-33"@en ;
     skos:historyNote "The reading eš₂ is now abandoned."@en ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
-<https://purl.org/eblavoc/400005> a skos:Concept ;
+<https://purl.org/eblavoc/400006> a skos:Concept ;
     skos:prefLabel "TI-TUG₂"@en ;
-    skos:hiddenLabel "ti-tug₂"@en ;
-    skos:definition "'Ribbed clothing (when referred to a textile)'; see also the translation 'tunic with folds' found in Archi, ARET XIV (2023), s.v. aktumtug₂, 522."@en ;
+    skos:hiddenLabel "ti-tug2"@en ;
+    skos:definition "'Ribbed clothing (when referred to a textile)'; see also the translation 'tunic with folds' found in Archi, ARET XIV (2023), s.v. AKTUM-TUG₂, 522."@en ;
     skos:note "Archi, ARET XX (2018), s.v., 290"@en, "Archi, ARET XIV (2023), s.v., 572"@en, "Archi, ARET XIV (2023), s.v. AKTUM-TUG₂, 522"@en, "Biga, 'Textiles' (2010), 155"@en ;
+    skos:notation "400006" ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/eblavoc/349> a skos:Concept ;
+    skos:prefLabel "U₂-HAB₂"@en ;
+    skos:definition "'Dark red'; note that in VE 228 U₂-GIGIR // a-ša-ḫa-bu₃, Akk. <i>isḫappu</i>, “rogue man”, U₂-HAB₂ has been misinterpreted as a variant of gišḫab, Akk. <i>ḫūratu</i>."@en ;
+    skos:notation "349" ;
+    skos:note "Conti, 'Il sillabario' (1990), 112"@en ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
 
 <https://purl.org/eblavoc/6246> a skos:Concept ;
     skos:prefLabel "ZA:GIN₃"@en ;
-    skos:definition "'Lapis lazuli'."@en ;
+    skos:hiddenLabel "ZA:GIN3"@en ;
+    skos:definition "'Lapis lazuli'; attested in VE 868 (not glossed). The term most frequently occurs with the writing ZA:GIN₃, but ▶︎ ZA-GIN₃ is also attested. The writing ▶︎ GIN₃(-GIN₃) is rare. See Pasquali, Lessico (2005) on the uses of this semi-precious stone attested in the administrative record. It seems that lapis lazuli arrived at Ebla through Mari, see Archi, 'Lapis Lazuli and Shells' (2017). On the etymology, see most recently Oreshko, 'Anatolian Linguistic Influences' (2018), 106."@en ;
+    skos:example "5 ma-na ša-pi za-gin₃ / mu-DU / <i>Ma-ri</i>₂<sup>ki</sup> / iti <i>ig-za</i> 5 minas and 40 shekels of lapis lazuli (ca.2.6 kilos), income from Mari, month II (ARET XIV 90 = ARET VIII 528 = MEE 5 8 = TM.76.G.528 rev.V:6-9)"@en ;
     skos:notation "6246" ;
     skos:inScheme <> .
+
+<https://purl.org/eblavoc/6182> a skos:Concept ;
+    skos:prefLabel "ZA-GIN₃"@en ;
+    skos:hiddenLabel "ZA-GIN3"@en ;
+    skos:definition "'Lapis lazuli'; attested in VE 868 (not glossed). The term most frequently occurs with the writing ZA:GIN₃, but ▶︎ ZA-GIN₃ is also attested. The writing ▶︎ GIN₃(-GIN₃) is rare. See Pasquali, Lessico (2005) on the uses of this semi-precious stone attested in the administrative record. It seems that lapis lazuli arrived at Ebla through Mari, see Archi, 'Lapis Lazuli and Shells' (2017). On the etymology, see most recently Oreshko, 'Anatolian Linguistic Influences' (2018), 106."@en ;
+    skos:example "5 ma-na ša-pi za-gin₃ / mu-DU / <i>Ma-ri</i>₂<sup>ki</sup> / iti <i>ig-za</i> 5 minas and 40 shekels of lapis lazuli (ca.2.6 kilos), income from Mari, month II (ARET XIV 90 = ARET VIII 528 = MEE 5 8 = TM.76.G.528 rev.V:6-9)"@en ;
+    skos:notation "6182" ;
+    skos:inScheme <> .
+
+# Collections
+
+<https://purl.org/eblavoc/Textiles> a skos:Collection ;
+    skos:prefLabel "Textiles and garments"@en ;
+    skos:member <https://purl.org/eblavoc/1054>, <https://purl.org/eblavoc/16106>, <https://purl.org/eblavoc/77>, <https://purl.org/eblavoc/1923>, <https://purl.org/eblavoc/138>, <https://purl.org/eblavoc/400006> .
