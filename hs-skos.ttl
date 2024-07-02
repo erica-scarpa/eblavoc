@@ -1,0 +1,40 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://purl.org/hs-skos/> .
+
+<> a skos:ConceptScheme ;
+    dct:title "Heritage Science Simple Knowledge Organization System"@en ;
+    skos:prefLabel "HS SKOS"@en ;
+    dct:creator "Erica Scarpa"@en ;
+    dct:created "2024-07-02"^^xsd:date ;
+    dct:description "A thesaurus of terminology for the development of an Heritage Science ontology"@en ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+
+<https://purl.org/hs-skos/HeritageScience> a skos:Concept ;
+    skos:prefLabel "Heritage Science"@en ;
+    skos:definition "Interdisciplinary research field that combines social sciences and natural sciences applied to cultural and natural Heritage."@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/hs-skos/Heritage> a skos:Concept ;
+    skos:prefLabel "Heritage"@en ;
+    skos:definition "Some definition."@en ;
+    skos:closeMatch <http://vocabularies.unesco.org/thesaurus/concept269>;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/hs-skos/TangibleHeritage> a skos:Concept ;
+    skos:prefLabel "Tangible Heritage"@en ;
+    skos:definition "Some definition"@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
+
+<https://purl.org/hs-skos/CriticalEdition> a skos:Concept ;
+    skos:prefLabel "Critical Edition"@en ;
+    skos:definition "A scholarly re-created edition of a text based on multiple witnesses"@en ;
+    skos:inScheme <> ;
+    skos:topConceptOf <> .
